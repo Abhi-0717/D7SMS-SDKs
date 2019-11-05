@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="850" height="585" viewBox="0 0 850 585">
+    <defs>
+        <style>
+            .cls-1, .cls-15 {
+                fill: #f7f7f7;
+            }
+
+            .cls-1, .cls-3 {
+                stroke: #c5c5c5;
+            }
+
+            .cls-1, .cls-13, .cls-14, .cls-15, .cls-3, .cls-4 {
+                stroke-linejoin: round;
+                stroke-width: 1px;
+            }
+
+            .cls-16, .cls-2, .cls-20, .cls-22, .cls-3, .cls-4 {
+                fill: #fff;
+            }
+
+            .cls-2, .cls-5, .cls-6 {
+                fill-rule: evenodd;
+            }
+
+            .cls-4 {
+                stroke: #259bf6;
+            }
+
+            .cls-5 {
+                fill: #616161;
+            }
+
+            .cls-6 {
+                fill: #3a3935;
+            }
+
+            .cls-16, .cls-17, .cls-18, .cls-7, .cls-8 {
+                font-size: 13.333px;
+            }
+
+            .cls-10, .cls-8 {
+                fill: #101010;
+            }
+
+            .cls-10, .cls-11, .cls-12, .cls-16, .cls-17, .cls-18, .cls-20, .cls-22, .cls-8 {
+                font-family: "Myriad Pro";
+            }
+
+            .cls-10, .cls-11, .cls-12, .cls-9 {
+                font-size: 10.37px;
+            }
+
+            .cls-11 {
+                fill: #adadad;
+            }
+
+            .cls-12 {
+                fill: #1999ea;
+            }
+
+            .cls-13 {
+                fill: #447cd6;
+            }
+
+            .cls-13, .cls-14 {
+                stroke: #8b8b8b;
+            }
+
+            .cls-14 {
+                fill: #d1d1d1;
+                filter: url(#gradient-overlay-1);
+            }
+
+            .cls-15 {
+                stroke: #c4c4c4;
+            }
+
+            .cls-17 {
+                fill: #1c1c1c;
+            }
+
+            .cls-18 {
+                fill: #c4c4c4;
+            }
+
+            .cls-19, .cls-20 {
+                font-size: 18.667px;
+            }
+
+            .cls-21, .cls-22 {
+                font-size: 8px;
+            }
+        </style>
+
+        <filter id="gradient-overlay-1" filterUnits="userSpaceOnUse">
+            <feImage x="703" y="546" width="59" height="25" preserveAspectRatio="none" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNTkiIGhlaWdodD0iMjUiPjxsaW5lYXJHcmFkaWVudCBpZD0iZ3JhZCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIyOS41IiB5MT0iMjUiIHgyPSIyOS41Ij4KICA8c3RvcCBvZmZzZXQ9IjAuMDg1IiBzdG9wLWNvbG9yPSIjYzhjOGM4Ii8+CiAgPHN0b3Agb2Zmc2V0PSIwLjkxNSIgc3RvcC1jb2xvcj0iI2U1ZTVlNSIvPgo8L2xpbmVhckdyYWRpZW50Pgo8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyYWQpIi8+PC9zdmc+" />
+            <feComposite operator="in" in2="SourceGraphic" />
+            <feBlend in2="SourceGraphic" result="gradientFill" />
+        </filter>
+    </defs>
+    <rect width="850" height="585" class="cls-1" />
+    <path d="M1.275,1.275 L848.725,1.275 L848.725,38.582 L1.275,38.582 L1.275,1.275 Z" class="cls-2" />
+    <rect x="135" y="191" width="698" height="22" class="cls-3" />
+    <rect x="135" y="219" width="698" height="22" class="cls-4" />
+    <path d="M1.275,38.582 L848.725,38.582 L848.725,107.987 L1.275,107.987 L1.275,38.582 Z" class="cls-5" />
+    <path d="M837.889,15.179 L834.217,18.901 L837.889,22.623 L837.889,22.623 C838.056,22.793 838.160,23.028 838.160,23.288 C838.160,23.807 837.745,24.227 837.233,24.227 C836.977,24.227 836.745,24.122 836.577,23.952 L836.577,23.952 L832.905,20.230 L829.233,23.952 L829.233,23.952 C829.065,24.122 828.834,24.227 828.577,24.227 C828.065,24.227 827.650,23.807 827.650,23.288 C827.650,23.028 827.754,22.793 827.922,22.623 L827.922,22.623 L831.594,18.901 L827.922,15.179 L827.922,15.179 C827.754,15.009 827.650,14.774 827.650,14.515 C827.650,13.996 828.065,13.575 828.577,13.575 C828.834,13.575 829.065,13.680 829.233,13.850 L829.233,13.850 L832.905,17.572 L836.577,13.850 L836.577,13.850 C836.745,13.680 836.977,13.575 837.233,13.575 C837.745,13.575 838.160,13.996 838.160,14.515 C838.160,14.774 838.056,15.009 837.889,15.179 L837.889,15.179 Z" class="cls-6" />
+    <text transform="translate(13 25) scale(1.29 1.29)" class="cls-7"><tspan class="cls-8">Create New Project</tspan></text>
+    <text transform="translate(13 142) scale(1.29 1.29)" class="cls-9"><tspan class="cls-10">Configure your new project</tspan></text>
+    <text transform="translate(13 207) scale(1.29 1.29)" class="cls-9"><tspan class="cls-10">Application name:</tspan></text>
+    <text transform="translate(13 233) scale(1.29 1.29)" class="cls-9"><tspan class="cls-10">Company Domain:</tspan></text>
+    <text transform="translate(13 261) scale(1.29 1.29)" class="cls-9"><tspan class="cls-10">Package name:</tspan></text>
+    <text transform="translate(144 207) scale(1.29 1.29)" class="cls-9"><tspan class="cls-10">Sample Application</tspan></text>
+    <text transform="translate(144 233) scale(1.29 1.29)" class="cls-9"><tspan class="cls-10">sampleapp.example.com</tspan></text>
+    <rect x="135" y="366" width="698" height="22" class="cls-3" />
+    <text transform="translate(144 380) scale(1.29 1.29)" class="cls-9"><tspan class="cls-10">C:\Users\Username\Desktop\SampleApplication</tspan></text>
+    <text transform="translate(144 261) scale(1.29 1.29)" class="cls-9"><tspan class="cls-11">com.example.sampleapp.sampleapplication</tspan></text>
+    <text transform="translate(806 261) scale(1.29 1.29)" class="cls-9"><tspan class="cls-12">edit</tspan></text>
+    <rect x="631" y="546" width="59" height="25" rx="3" ry="3" class="cls-13" />
+    <g style="fill: #d1d1d1; filter: url(#gradient-overlay-1)">
+        <rect x="703" y="546" width="59" height="25" rx="3" ry="3" id="rect-1" style="stroke: inherit; filter: none; fill: inherit" class="cls-14" />
+    </g>
+    <use xlink:href="#rect-1" style="stroke: #8b8b8b; filter: none; fill: none" />
+    <rect x="774" y="546" width="59" height="25" rx="3" ry="3" class="cls-15" />
+    <text x="647" y="563" class="cls-7"><tspan class="cls-16">Next</tspan></text>
+    <text x="714" y="563" class="cls-7"><tspan class="cls-17">Cancel</tspan></text>
+    <text x="785" y="563" class="cls-7"><tspan class="cls-18">Cancel</tspan></text>
+    <rect x="563" y="546" width="59" height="25" rx="3" ry="3" class="cls-15" />
+    <text x="569" y="563" class="cls-7"><tspan class="cls-18">Previous</tspan></text>
+    <text transform="translate(13 380) scale(1.29 1.29)" class="cls-9"><tspan class="cls-10">Project location:</tspan></text>
+    <text transform="translate(68 77) scale(1.29 1.29)" class="cls-19"><tspan class="cls-20">New Project</tspan></text>
+    <text transform="translate(68 88) scale(1.29 1.29)" class="cls-21"><tspan class="cls-22">Android Studio</tspan></text>
+    <image xlink:href="data:img/png;base64,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" x="14" y="46" width="47" height="52" />
+</svg>
+

@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="835" height="560" viewBox="0 0 835 560">
+  <defs>
+    <style>
+    .cls-1, .cls-40, .cls-43, .cls-50 {
+      fill: #f8f8f8;
+    }
+
+    .cls-1, .cls-2 {
+      stroke: #181818;
+    }
+
+    .cls-1, .cls-10, .cls-12, .cls-15, .cls-17, .cls-2, .cls-44, .cls-45, .cls-50 {
+      stroke-linejoin: round;
+      stroke-width: 1px;
+    }
+
+    .cls-1, .cls-16, .cls-18, .cls-2, .cls-20, .cls-22, .cls-23, .cls-24, .cls-25, .cls-34, .cls-35, .cls-36, .cls-42, .cls-43, .cls-46, .cls-50, .cls-54, .cls-7 {
+      fill-rule: evenodd;
+    }
+
+    .cls-2 {
+      fill: #565551;
+      filter: url(#gradient-overlay-1);
+    }
+
+    .cls-3 {
+      fill: #3c3b37;
+      filter: url(#inner-shadow-1);
+    }
+
+    .cls-4 {
+      fill: #878680;
+    }
+
+    .cls-5 {
+      fill: #3875d7;
+    }
+
+    .cls-6 {
+      fill: #e66228;
+    }
+
+    .cls-7 {
+      fill: #3a3935;
+    }
+
+    .cls-8, .cls-9 {
+      font-size: 12px;
+    }
+
+    .cls-9 {
+      fill: #e7e7e7;
+    }
+
+    .cls-27, .cls-28, .cls-37, .cls-38, .cls-48, .cls-52, .cls-53, .cls-9 {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .cls-10, .cls-15, .cls-21, .cls-34, .cls-37, .cls-53 {
+      fill: #fff;
+    }
+
+    .cls-10, .cls-12, .cls-17, .cls-44 {
+      stroke: #c5c5c5;
+    }
+
+    .cls-11 {
+      fill: #bcbcbc;
+    }
+
+    .cls-12 {
+      fill: #e8e8e8;
+    }
+
+    .cls-13 {
+      fill: #d4d4d4;
+    }
+
+    .cls-14 {
+      fill: #effae7;
+    }
+
+    .cls-15 {
+      stroke: #919191;
+    }
+
+    .cls-16 {
+      fill: #4b63a7;
+    }
+
+    .cls-17 {
+      fill: #f0f0f0;
+    }
+
+    .cls-18, .cls-27, .cls-29 {
+      fill: #aaa;
+    }
+
+    .cls-19 {
+      fill: #e1dfdf;
+    }
+
+    .cls-20 {
+      fill: #757575;
+    }
+
+    .cls-22, .cls-24 {
+      fill: #eba12a;
+    }
+
+    .cls-22 {
+      filter: url(#inner-shadow-2);
+    }
+
+    .cls-23, .cls-25 {
+      fill: #d85a6d;
+    }
+
+    .cls-23 {
+      filter: url(#inner-shadow-3);
+    }
+
+    .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-33, .cls-37, .cls-38 {
+      font-size: 22.539px;
+    }
+
+    .cls-28, .cls-30, .cls-48 {
+      fill: #1f1f1f;
+    }
+
+    .cls-29, .cls-30, .cls-33 {
+      font-family: "Courier New";
+    }
+
+    .cls-31 {
+      fill: #ffffd7;
+    }
+
+    .cls-32 {
+      fill: #e4e4ff;
+    }
+
+    .cls-33 {
+      fill: navy;
+    }
+
+    .cls-35 {
+      fill: #9c9c9c;
+    }
+
+    .cls-36 {
+      fill: #d95646;
+    }
+
+    .cls-38, .cls-52 {
+      fill: gray;
+    }
+
+    .cls-39 {
+      fill: #68a1c2;
+    }
+
+    .cls-41 {
+      fill: #b3d8ed;
+    }
+
+    .cls-42 {
+      fill: #8a8a8a;
+    }
+
+    .cls-44 {
+      fill: #f5f5f5;
+    }
+
+    .cls-45 {
+      fill: #e0e0e0;
+      stroke: #d5d5d5;
+    }
+
+    .cls-46 {
+      fill: #dbdbdb;
+    }
+
+    .cls-47, .cls-48 {
+      font-size: 19px;
+    }
+
+    .cls-49 {
+      fill: #ddd;
+    }
+
+    .cls-50 {
+      stroke: #818181;
+      filter: url(#drop-shadow-1);
+    }
+
+    .cls-51, .cls-52, .cls-53 {
+      font-size: 32.869px;
+    }
+
+    .cls-54 {
+      fill: #cacace;
+    }
+    </style>
+
+    <filter id="gradient-overlay-1" filterUnits="userSpaceOnUse">
+      <feImage x="-0.375" y="-0.375" width="835.344" height="34.9688" preserveAspectRatio="none" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iODM1LjM0NCIgaGVpZ2h0PSIzNC45Njg4Ij48bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iNDE3LjY3MiIgeTE9IjM0Ljk2OCIgeDI9IjQxNy42NzIiPgogIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzNjM2IzNyIvPgogIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzYzNjI1ZSIvPgo8L2xpbmVhckdyYWRpZW50Pgo8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyYWQpIi8+PC9zdmc+"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+      <feBlend in2="SourceGraphic" result="gradientFill"/>
+    </filter>
+    <filter id="inner-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" in="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.732" result="innerShadowBlur"/>
+      <feFlood flood-opacity="0.35"/>
+      <feComposite operator="out" in2="innerShadowBlur"/>
+      <feComposite operator="in" in2="SourceAlpha"/>
+      <feBlend mode="multiply" in2="SourceGraphic" result="innerShadow"/>
+    </filter>
+    <filter id="inner-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" in="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.236" result="innerShadowBlur"/>
+      <feFlood flood-color="#573806" flood-opacity="0.35"/>
+      <feComposite operator="out" in2="innerShadowBlur"/>
+      <feComposite operator="in" in2="SourceAlpha"/>
+      <feBlend mode="multiply" in2="SourceGraphic" result="innerShadow"/>
+    </filter>
+    <filter id="inner-shadow-3" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" in="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.236" result="innerShadowBlur"/>
+      <feFlood flood-color="#610916" flood-opacity="0.35"/>
+      <feComposite operator="out" in2="innerShadowBlur"/>
+      <feComposite operator="in" in2="SourceAlpha"/>
+      <feBlend mode="multiply" in2="SourceGraphic" result="innerShadow"/>
+    </filter>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" in="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.414" result="dropBlur"/>
+      <feFlood flood-opacity="0.27"/>
+      <feComposite operator="in" in2="dropBlur" result="dropShadowComp"/>
+      <feComposite in="SourceGraphic" result="shadowed"/>
+    </filter>
+  </defs>
+  <path d="M16.914,0.010 L818.110,0.010 C827.445,0.010 835.013,6.710 835.013,14.975 L835.013,559.990 L0.011,559.990 L0.011,14.975 C0.011,6.710 7.579,0.010 16.914,0.010 Z" class="cls-1"/>
+  <g style="fill: #565551; filter: url(#gradient-overlay-1)">
+    <path d="M16.546,-0.364 L818.071,-0.364 C827.411,-0.364 834.981,7.207 834.981,16.545 L834.981,34.582 L-0.364,34.582 L-0.364,16.545 C-0.364,7.207 7.207,-0.364 16.546,-0.364 Z" id="path-1" style="stroke: inherit; filter: none; fill: inherit" class="cls-2"/>
+  </g>
+  <use xlink:href="#path-1" style="stroke: #181818; filter: none; fill: none"/>
+  <rect x="741.406" y="5.281" width="66.532" height="23.656" rx="11.273" ry="11.273" class="cls-3"/>
+  <circle cx="753.672" cy="17.719" r="8.734" class="cls-4"/>
+  <rect x="239" y="35" width="35" height="27" class="cls-5"/>
+  <circle cx="774.688" cy="17.719" r="8.75" class="cls-4"/>
+  <circle cx="795.688" cy="17.719" r="8.75" class="cls-6"/>
+  <path d="M758.242,18.293 L754.359,18.293 L752.988,18.293 L749.105,18.293 C748.726,18.293 748.419,18.028 748.419,17.701 C748.419,17.374 748.726,17.109 749.105,17.109 L752.988,17.109 L754.359,17.109 L758.242,17.109 C758.621,17.109 758.927,17.374 758.927,17.701 C758.927,18.028 758.621,18.293 758.242,18.293 Z" class="cls-7"/>
+  <path d="M799.582,14.806 L796.726,17.701 L799.582,20.596 L799.582,20.596 C799.712,20.728 799.793,20.911 799.793,21.113 C799.793,21.516 799.470,21.844 799.072,21.844 C798.872,21.844 798.692,21.762 798.562,21.629 L798.562,21.629 L795.706,18.735 L792.851,21.629 L792.851,21.629 C792.720,21.762 792.540,21.844 792.341,21.844 C791.943,21.844 791.620,21.516 791.620,21.113 C791.620,20.911 791.700,20.728 791.831,20.596 L791.831,20.596 L794.686,17.701 L791.831,14.806 L791.831,14.806 C791.700,14.674 791.620,14.491 791.620,14.289 C791.620,13.885 791.943,13.558 792.341,13.558 C792.540,13.558 792.720,13.640 792.851,13.772 L792.851,13.772 L795.706,16.667 L798.562,13.772 L798.562,13.772 C798.692,13.640 798.872,13.558 799.072,13.558 C799.470,13.558 799.793,13.885 799.793,14.289 C799.793,14.491 799.712,14.674 799.582,14.806 L799.582,14.806 Z" class="cls-7"/>
+  <path d="M778.393,21.844 L770.986,21.844 C770.775,21.844 770.603,21.670 770.603,21.455 L770.603,13.947 C770.603,13.732 770.775,13.558 770.986,13.558 L778.393,13.558 C778.605,13.558 778.776,13.732 778.776,13.947 L778.776,21.455 C778.776,21.670 778.605,21.844 778.393,21.844 ZM778.010,14.335 L771.369,14.335 L771.369,21.067 L778.010,21.067 L778.010,14.335 Z" class="cls-7"/>
+  <text transform="translate(59 22) scale(1.13 1.13)" class="cls-8"><tspan class="cls-9">TestApp</tspan></text>
+  <rect x="1" y="54.469" width="20" height="504.562" class="cls-10"/>
+  <rect x="1" y="61" width="20" height="88" class="cls-11"/>
+  <rect x="20" y="61" width="814" height="20" class="cls-12"/>
+  <rect x="20" y="80" width="322" height="369" class="cls-10"/>
+  <rect x="21" y="142" width="320" height="19" class="cls-13"/>
+  <rect x="21" y="389" width="320" height="19" class="cls-14"/>
+  <rect x="29" y="86" width="9" height="9" class="cls-15"/>
+  <path d="M31.000,91.000 L31.000,90.000 L36.000,90.000 L36.000,91.000 L31.000,91.000 Z" class="cls-16"/>
+  <rect x="76" y="127" width="9" height="9" class="cls-15"/>
+  <path d="M78.000,132.000 L78.000,131.000 L83.000,131.000 L83.000,132.000 L78.000,132.000 Z" class="cls-16"/>
+  <path d="M81.000,134.000 L80.000,134.000 L80.000,129.000 L81.000,129.000 L81.000,134.000 Z" class="cls-16"/>
+  <rect x="76" y="147" width="9" height="9" class="cls-15"/>
+  <path d="M78.000,152.000 L78.000,151.000 L83.000,151.000 L83.000,152.000 L78.000,152.000 Z" class="cls-16"/>
+  <rect x="76" y="216" width="9" height="9" class="cls-15"/>
+  <path d="M81.000,223.000 L80.000,223.000 L80.000,218.000 L81.000,218.000 L81.000,223.000 Z" class="cls-16"/>
+  <path d="M78.000,221.000 L78.000,220.000 L83.000,220.000 L83.000,221.000 L78.000,221.000 Z" class="cls-16"/>
+  <rect x="76" y="236" width="9" height="9" class="cls-15"/>
+  <path d="M81.000,243.000 L80.000,243.000 L80.000,238.000 L81.000,238.000 L81.000,243.000 Z" class="cls-16"/>
+  <path d="M78.000,241.000 L78.000,240.000 L83.000,240.000 L83.000,241.000 L78.000,241.000 Z" class="cls-16"/>
+  <rect x="76" y="256" width="9" height="9" class="cls-15"/>
+  <path d="M81.000,263.000 L80.000,263.000 L80.000,258.000 L81.000,258.000 L81.000,263.000 Z" class="cls-16"/>
+  <path d="M78.000,261.000 L78.000,260.000 L83.000,260.000 L83.000,261.000 L78.000,261.000 Z" class="cls-16"/>
+  <rect x="76" y="276" width="9" height="9" class="cls-15"/>
+  <path d="M81.000,283.000 L80.000,283.000 L80.000,278.000 L81.000,278.000 L81.000,283.000 Z" class="cls-16"/>
+  <path d="M78.000,281.000 L78.000,280.000 L83.000,280.000 L83.000,281.000 L78.000,281.000 Z" class="cls-16"/>
+  <rect x="52" y="294" width="9" height="9" class="cls-15"/>
+  <path d="M57.000,301.000 L56.000,301.000 L56.000,296.000 L57.000,296.000 L57.000,301.000 Z" class="cls-16"/>
+  <path d="M54.000,299.000 L54.000,298.000 L59.000,298.000 L59.000,299.000 L54.000,299.000 Z" class="cls-16"/>
+  <rect x="52" y="313" width="9" height="9" class="cls-15"/>
+  <path d="M57.000,320.000 L56.000,320.000 L56.000,315.000 L57.000,315.000 L57.000,320.000 Z" class="cls-16"/>
+  <path d="M54.000,318.000 L54.000,317.000 L59.000,317.000 L59.000,318.000 L54.000,318.000 Z" class="cls-16"/>
+  <rect x="52" y="333" width="9" height="9" class="cls-15"/>
+  <path d="M57.000,340.000 L56.000,340.000 L56.000,335.000 L57.000,335.000 L57.000,340.000 Z" class="cls-16"/>
+  <path d="M54.000,338.000 L54.000,337.000 L59.000,337.000 L59.000,338.000 L54.000,338.000 Z" class="cls-16"/>
+  <rect x="52" y="354" width="9" height="9" class="cls-15"/>
+  <path d="M57.000,361.000 L56.000,361.000 L56.000,356.000 L57.000,356.000 L57.000,361.000 Z" class="cls-16"/>
+  <path d="M54.000,359.000 L54.000,358.000 L59.000,358.000 L59.000,359.000 L54.000,359.000 Z" class="cls-16"/>
+  <rect x="52" y="394" width="9" height="9" class="cls-15"/>
+  <path d="M57.000,401.000 L56.000,401.000 L56.000,396.000 L57.000,396.000 L57.000,401.000 Z" class="cls-16"/>
+  <path d="M54.000,399.000 L54.000,398.000 L59.000,398.000 L59.000,399.000 L54.000,399.000 Z" class="cls-16"/>
+  <rect x="52" y="414" width="9" height="9" class="cls-15"/>
+  <path d="M57.000,421.000 L56.000,421.000 L56.000,416.000 L57.000,416.000 L57.000,421.000 Z" class="cls-16"/>
+  <path d="M54.000,419.000 L54.000,418.000 L59.000,418.000 L59.000,419.000 L54.000,419.000 Z" class="cls-16"/>
+  <rect x="52" y="374" width="9" height="9" class="cls-15"/>
+  <path d="M57.000,381.000 L56.000,381.000 L56.000,376.000 L57.000,376.000 L57.000,381.000 Z" class="cls-16"/>
+  <path d="M54.000,379.000 L54.000,378.000 L59.000,378.000 L59.000,379.000 L54.000,379.000 Z" class="cls-16"/>
+  <rect x="52" y="106" width="9" height="9" class="cls-15"/>
+  <path d="M54.000,111.000 L54.000,110.000 L59.000,110.000 L59.000,111.000 L54.000,111.000 Z" class="cls-16"/>
+  <rect x="20" y="455" width="431" height="95" class="cls-10"/>
+  <rect x="20" y="455" width="20" height="95" class="cls-17"/>
+  <path d="M34.906,522.336 L31.291,525.900 L34.906,529.464 L34.906,529.464 C35.072,529.627 35.174,529.851 35.174,530.100 C35.174,530.597 34.765,531.000 34.261,531.000 C34.009,531.000 33.780,530.899 33.615,530.736 L33.615,530.736 L30.000,527.173 L26.385,530.736 L26.385,530.736 C26.220,530.899 25.991,531.000 25.739,531.000 C25.235,531.000 24.826,530.597 24.826,530.100 C24.826,529.851 24.928,529.627 25.093,529.464 L25.093,529.464 L28.709,525.900 L25.093,522.336 L25.093,522.336 C24.928,522.174 24.826,521.948 24.826,521.700 C24.826,521.203 25.235,520.800 25.739,520.800 C25.991,520.800 26.220,520.901 26.385,521.064 L26.385,521.064 L30.000,524.627 L33.615,521.064 L33.615,521.064 C33.780,520.901 34.009,520.800 34.261,520.800 C34.765,520.800 35.174,521.203 35.174,521.700 C35.174,521.948 35.072,522.174 34.906,522.336 L34.906,522.336 Z" class="cls-18"/>
+  <rect x="460" y="455" width="374" height="95" class="cls-10"/>
+  <rect x="460" y="455" width="20" height="95" class="cls-17"/>
+  <rect x="463" y="462" width="14" height="14" rx="1" ry="1" class="cls-19"/>
+  <rect x="463" y="482" width="14" height="14" rx="1" ry="1" class="cls-19"/>
+  <rect x="463" y="501" width="14" height="14" rx="1" ry="1" class="cls-19"/>
+  <rect x="23" y="462" width="14" height="14" rx="1" ry="1" class="cls-19"/>
+  <rect x="23" y="482" width="14" height="14" rx="1" ry="1" class="cls-19"/>
+  <rect x="23" y="501" width="14" height="14" rx="1" ry="1" class="cls-19"/>
+  <rect x="463" y="521" width="14" height="14" rx="1" ry="1" class="cls-19"/>
+  <path d="M33.000,95.000 L34.000,95.000 L34.000,448.000 L33.000,448.000 L33.000,95.000 Z" class="cls-20"/>
+  <path d="M56.000,115.000 L57.000,115.000 L57.000,294.000 L56.000,294.000 L56.000,115.000 Z" class="cls-20"/>
+  <path d="M38.000,91.000 L38.000,90.000 L47.000,90.000 L47.000,91.000 L38.000,91.000 Z" class="cls-20"/>
+  <path d="M61.000,111.000 L61.000,110.000 L70.000,110.000 L70.000,111.000 L61.000,111.000 Z" class="cls-20"/>
+  <path d="M85.000,132.000 L85.000,131.000 L94.000,131.000 L94.000,132.000 L85.000,132.000 Z" class="cls-20"/>
+  <path d="M80.000,118.000 L81.000,118.000 L81.000,127.000 L80.000,127.000 L80.000,118.000 Z" class="cls-20"/>
+  <rect x="100" y="166" width="9" height="9" class="cls-15"/>
+  <path d="M102.000,171.000 L102.000,170.000 L107.000,170.000 L107.000,171.000 L102.000,171.000 Z" class="cls-16"/>
+  <path d="M105.000,173.000 L104.000,173.000 L104.000,168.000 L105.000,168.000 L105.000,173.000 Z" class="cls-16"/>
+  <path d="M109.000,171.000 L109.000,170.000 L118.000,170.000 L118.000,171.000 L109.000,171.000 Z" class="cls-20"/>
+  <path d="M105.000,187.000 L105.000,186.000 L118.000,186.000 L118.000,187.000 L105.000,187.000 Z" class="cls-20"/>
+  <path d="M105.000,203.000 L105.000,202.000 L118.000,202.000 L118.000,203.000 L105.000,203.000 Z" class="cls-20"/>
+  <path d="M104.000,157.000 L105.000,157.000 L105.000,166.000 L104.000,166.000 L104.000,157.000 Z" class="cls-20"/>
+  <path d="M104.000,175.000 L105.000,175.000 L105.000,203.000 L104.000,203.000 L104.000,175.000 Z" class="cls-20"/>
+  <path d="M80.000,136.000 L81.000,136.000 L81.000,147.000 L80.000,147.000 L80.000,136.000 Z" class="cls-20"/>
+  <path d="M85.000,152.000 L85.000,151.000 L94.000,151.000 L94.000,152.000 L85.000,152.000 Z" class="cls-20"/>
+  <path d="M80.000,156.000 L81.000,156.000 L81.000,216.000 L80.000,216.000 L80.000,156.000 Z" class="cls-20"/>
+  <path d="M85.000,221.000 L85.000,220.000 L94.000,220.000 L94.000,221.000 L85.000,221.000 Z" class="cls-20"/>
+  <path d="M80.000,225.000 L81.000,225.000 L81.000,236.000 L80.000,236.000 L80.000,225.000 Z" class="cls-20"/>
+  <path d="M85.000,241.000 L85.000,240.000 L94.000,240.000 L94.000,241.000 L85.000,241.000 Z" class="cls-20"/>
+  <path d="M80.000,245.000 L81.000,245.000 L81.000,256.000 L80.000,256.000 L80.000,245.000 Z" class="cls-20"/>
+  <path d="M85.000,261.000 L85.000,260.000 L94.000,260.000 L94.000,261.000 L85.000,261.000 Z" class="cls-20"/>
+  <path d="M85.000,281.000 L85.000,280.000 L94.000,280.000 L94.000,281.000 L85.000,281.000 Z" class="cls-20"/>
+  <path d="M80.000,265.000 L81.000,265.000 L81.000,276.000 L80.000,276.000 L80.000,265.000 Z" class="cls-20"/>
+  <path d="M61.000,299.000 L61.000,298.000 L70.000,298.000 L70.000,299.000 L61.000,299.000 Z" class="cls-20"/>
+  <path d="M56.000,303.000 L57.000,303.000 L57.000,314.000 L56.000,314.000 L56.000,303.000 Z" class="cls-20"/>
+  <path d="M61.000,318.000 L61.000,317.000 L70.000,317.000 L70.000,318.000 L61.000,318.000 Z" class="cls-20"/>
+  <path d="M56.000,322.000 L57.000,322.000 L57.000,333.000 L56.000,333.000 L56.000,322.000 Z" class="cls-20"/>
+  <path d="M61.000,338.000 L61.000,337.000 L70.000,337.000 L70.000,338.000 L61.000,338.000 Z" class="cls-20"/>
+  <path d="M56.000,342.000 L57.000,342.000 L57.000,354.000 L56.000,354.000 L56.000,342.000 Z" class="cls-20"/>
+  <path d="M61.000,359.000 L61.000,358.000 L70.000,358.000 L70.000,359.000 L61.000,359.000 Z" class="cls-20"/>
+  <path d="M56.000,363.000 L57.000,363.000 L57.000,374.000 L56.000,374.000 L56.000,363.000 Z" class="cls-20"/>
+  <path d="M61.000,379.000 L61.000,378.000 L70.000,378.000 L70.000,379.000 L61.000,379.000 Z" class="cls-20"/>
+  <path d="M56.000,383.000 L57.000,383.000 L57.000,394.000 L56.000,394.000 L56.000,383.000 Z" class="cls-20"/>
+  <path d="M61.000,399.000 L61.000,398.000 L70.000,398.000 L70.000,399.000 L61.000,399.000 Z" class="cls-20"/>
+  <path d="M61.000,419.000 L61.000,418.000 L70.000,418.000 L70.000,419.000 L61.000,419.000 Z" class="cls-20"/>
+  <path d="M57.000,439.000 L57.000,438.000 L70.000,438.000 L70.000,439.000 L57.000,439.000 Z" class="cls-20"/>
+  <path d="M56.000,403.000 L57.000,403.000 L57.000,414.000 L56.000,414.000 L56.000,403.000 Z" class="cls-20"/>
+  <path d="M56.000,423.000 L57.000,423.000 L57.000,448.000 L56.000,448.000 L56.000,423.000 Z" class="cls-20"/>
+  <path d="M56.000,97.000 L57.000,97.000 L57.000,106.000 L56.000,106.000 L56.000,97.000 Z" class="cls-20"/>
+  <path d="M64.000,86.000 L64.000,96.000 L50.000,96.000 L50.000,84.000 L56.000,84.000 L58.000,86.000 L64.000,86.000 Z" class="cls-18"/>
+  <rect x="52" y="88" width="10" height="6" class="cls-21"/>
+  <path d="M87.000,106.000 L87.000,116.000 L73.000,116.000 L73.000,104.000 L79.000,104.000 L81.000,106.000 L87.000,106.000 Z" class="cls-18"/>
+  <rect x="75" y="108" width="10" height="6" class="cls-21"/>
+  <path d="M111.000,127.000 L111.000,137.000 L97.000,137.000 L97.000,125.000 L103.000,125.000 L105.000,127.000 L111.000,127.000 Z" class="cls-18"/>
+  <rect x="99" y="129" width="10" height="6" class="cls-21"/>
+  <rect x="341" y="80" width="493" height="369" class="cls-10"/>
+  <path d="M32.010,19.016 C32.010,17.198 31.997,15.379 32.013,13.561 C32.036,11.030 33.161,9.106 35.321,7.946 C37.479,6.787 39.672,6.936 41.715,8.343 C42.150,8.642 42.429,8.705 42.868,8.350 C43.603,7.754 44.490,7.463 45.410,7.284 C45.816,7.205 45.999,7.304 45.987,7.780 C45.958,8.906 45.974,10.033 45.980,11.160 C45.981,11.434 45.944,11.629 45.645,11.758 C44.717,12.159 44.424,12.937 44.429,13.926 C44.446,17.613 44.420,21.301 44.451,24.988 C44.456,25.650 44.311,25.894 43.627,25.846 C42.705,25.780 41.774,25.795 40.850,25.842 C40.282,25.871 40.128,25.679 40.132,25.108 C40.163,21.472 40.162,17.836 40.167,14.200 C40.169,12.499 39.469,11.578 38.193,11.589 C36.935,11.599 36.240,12.540 36.239,14.230 C36.239,17.841 36.228,21.452 36.251,25.063 C36.254,25.631 36.159,25.885 35.528,25.845 C34.580,25.785 33.625,25.801 32.676,25.841 C32.156,25.862 31.990,25.708 31.998,25.162 C32.028,23.113 32.010,21.065 32.010,19.016 Z" class="cls-22"/>
+  <path d="M52.817,13.013 C52.783,15.138 52.032,16.929 50.406,18.270 C50.003,18.602 50.034,18.812 50.302,19.185 C50.999,20.159 51.660,21.159 52.343,22.144 C52.638,22.569 52.849,23.025 52.954,23.538 C53.146,24.470 52.724,25.365 51.885,25.776 C51.015,26.201 49.952,26.018 49.432,25.268 C48.255,23.571 47.094,21.863 45.973,20.127 C45.163,18.872 45.168,16.950 46.931,15.971 C48.466,15.119 48.885,14.128 48.525,12.861 C48.387,12.376 48.171,11.883 47.729,11.693 C47.130,11.434 47.118,11.002 47.129,10.472 C47.150,9.494 47.147,8.516 47.130,7.538 C47.123,7.132 47.173,6.942 47.665,7.015 C50.808,7.482 52.815,9.800 52.817,13.013 Z" class="cls-23"/>
+  <path d="M5.006,136.957 C5.006,135.904 4.998,134.851 5.007,133.799 C5.020,132.333 5.663,131.219 6.897,130.548 C8.131,129.877 9.384,129.963 10.552,130.777 C10.800,130.951 10.959,130.987 11.210,130.781 C11.630,130.437 12.137,130.268 12.663,130.164 C12.895,130.119 13.000,130.176 12.993,130.452 C12.976,131.104 12.985,131.756 12.988,132.408 C12.989,132.567 12.968,132.680 12.797,132.755 C12.267,132.987 12.099,133.437 12.102,134.010 C12.112,136.144 12.097,138.279 12.115,140.414 C12.118,140.797 12.035,140.939 11.644,140.911 C11.117,140.873 10.585,140.881 10.057,140.908 C9.732,140.925 9.644,140.814 9.647,140.483 C9.665,138.378 9.664,136.273 9.667,134.168 C9.668,133.184 9.268,132.651 8.539,132.657 C7.820,132.663 7.423,133.207 7.422,134.186 C7.422,136.276 7.416,138.367 7.429,140.457 C7.431,140.786 7.377,140.933 7.016,140.910 C6.474,140.875 5.929,140.885 5.386,140.908 C5.089,140.920 4.994,140.831 4.999,140.515 C5.016,139.329 5.006,138.143 5.006,136.957 Z" class="cls-24"/>
+  <path d="M16.895,133.481 C16.876,134.711 16.447,135.748 15.518,136.525 C15.288,136.717 15.305,136.839 15.458,137.055 C15.856,137.618 16.234,138.198 16.624,138.767 C16.793,139.013 16.913,139.278 16.974,139.575 C17.083,140.114 16.842,140.633 16.363,140.870 C15.866,141.116 15.258,141.010 14.961,140.576 C14.289,139.594 13.625,138.605 12.985,137.600 C12.521,136.873 12.524,135.760 13.532,135.194 C14.409,134.701 14.648,134.127 14.443,133.393 C14.364,133.113 14.241,132.827 13.988,132.717 C13.646,132.567 13.639,132.317 13.645,132.010 C13.657,131.444 13.655,130.878 13.646,130.311 C13.642,130.076 13.670,129.967 13.952,130.009 C15.747,130.279 16.894,131.621 16.895,133.481 Z" class="cls-25"/>
+  <text transform="translate(17 53) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">File</tspan></text>
+  <text transform="translate(16 122) rotate(-90) scale(0.53 0.54)" class="cls-26"><tspan class="cls-28">1: Project</tspan></text>
+  <text transform="translate(15 219) rotate(-90) scale(0.53 0.54)" class="cls-26"><tspan class="cls-28">7: Structure</tspan></text>
+  <text transform="translate(44 53) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">Edit</tspan></text>
+  <text transform="translate(73 53) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">View</tspan></text>
+  <text transform="translate(73 95) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">TestApp</tspan></text>
+  <rect x="344" y="61" width="136" height="20" class="cls-10"/>
+  <g>
+    <text transform="translate(394 111) scale(0.53 0.53)" class="cls-26"><tspan class="cls-29">HelloController</tspan></text>
+    <text transform="translate(510 111) scale(0.53 0.53)" class="cls-26"><tspan class="cls-30">&lt;</tspan></text>
+    <text transform="translate(526 111) scale(0.53 0.53)" class="cls-26"><tspan class="cls-29">ApplicationController</tspan></text>
+    <text transform="translate(366 143) scale(0.53 0.53)" class="cls-26"><tspan class="cls-30">require</tspan></text>
+    <rect x="342" y="160" width="491" height="19" class="cls-31"/>
+    <rect x="391" y="160" width="45" height="19" class="cls-32"/>
+    <text transform="translate(421 143) scale(0.53 0.53)" class="cls-26"><tspan class="cls-29">'d7_sms'</tspan></text>
+    <text transform="translate(367 173) scale(0.53 0.53)" class="cls-26"><tspan class="cls-33">def Index</tspan></text>
+    <text transform="translate(378 192) scale(0.53 0.53)" class="cls-26"><tspan class="cls-29">client%20%3D%20D7SmsClient.new%28%27api_username%27%2C%...</tspan></text>
+    <text transform="translate(366 230) scale(0.53 0.53)" class="cls-26"><tspan class="cls-33">end</tspan></text>
+    <text transform="translate(349 249) scale(0.53 0.53)" class="cls-26"><tspan class="cls-33">end</tspan></text>
+    <text transform="translate(349 111) scale(0.53 0.53)" class="cls-26"><tspan class="cls-33">class</tspan></text>
+    <text transform="translate(54 475) scale(0.53 0.53)" class="cls-26"><tspan class="cls-29">Process finished with exit code 0</tspan></text>
+  </g>
+  <text transform="translate(95 115) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">app</tspan></text>
+  <text transform="translate(118 135) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">assets</tspan></text>
+  <path d="M111.000,147.000 L111.000,157.000 L97.000,157.000 L97.000,145.000 L103.000,145.000 L105.000,147.000 L111.000,147.000 Z" class="cls-18"/>
+  <rect x="99" y="149" width="10" height="6" class="cls-13"/>
+  <path d="M133.000,166.000 L133.000,176.000 L119.000,176.000 L119.000,164.000 L125.000,164.000 L127.000,166.000 L133.000,166.000 Z" class="cls-18"/>
+  <rect x="121" y="168" width="10" height="6" class="cls-21"/>
+  <text transform="translate(118 155) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">controllers</tspan></text>
+  <text transform="translate(137 173) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">concerns</tspan></text>
+  <text transform="translate(137 190) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">application_controller.rb</tspan></text>
+  <text transform="translate(137 207) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">hello_controller.rb</tspan></text>
+  <path d="M111.000,216.000 L111.000,226.000 L97.000,226.000 L97.000,214.000 L103.000,214.000 L105.000,216.000 L111.000,216.000 Z" class="cls-18"/>
+  <rect x="99" y="218" width="10" height="6" class="cls-21"/>
+  <text transform="translate(118 224) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">helpers</tspan></text>
+  <path d="M111.000,236.000 L111.000,246.000 L97.000,246.000 L97.000,234.000 L103.000,234.000 L105.000,236.000 L111.000,236.000 Z" class="cls-18"/>
+  <rect x="99" y="238" width="10" height="6" class="cls-21"/>
+  <text transform="translate(118 244) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">mailers</tspan></text>
+  <path d="M111.000,256.000 L111.000,266.000 L97.000,266.000 L97.000,254.000 L103.000,254.000 L105.000,256.000 L111.000,256.000 Z" class="cls-18"/>
+  <rect x="99" y="258" width="10" height="6" class="cls-21"/>
+  <text transform="translate(118 264) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">models</tspan></text>
+  <path d="M111.000,276.000 L111.000,286.000 L97.000,286.000 L97.000,274.000 L103.000,274.000 L105.000,276.000 L111.000,276.000 Z" class="cls-18"/>
+  <rect x="99" y="278" width="10" height="6" class="cls-21"/>
+  <text transform="translate(118 284) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">views</tspan></text>
+  <path d="M87.000,294.000 L87.000,304.000 L73.000,304.000 L73.000,292.000 L79.000,292.000 L81.000,294.000 L87.000,294.000 Z" class="cls-18"/>
+  <rect x="75" y="296" width="10" height="6" class="cls-21"/>
+  <text transform="translate(94 302) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">bin</tspan></text>
+  <path d="M87.000,314.000 L87.000,324.000 L73.000,324.000 L73.000,312.000 L79.000,312.000 L81.000,314.000 L87.000,314.000 Z" class="cls-18"/>
+  <rect x="75" y="316" width="10" height="6" class="cls-21"/>
+  <text transform="translate(94 322) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">config</tspan></text>
+  <path d="M87.000,334.000 L87.000,344.000 L73.000,344.000 L73.000,332.000 L79.000,332.000 L81.000,334.000 L87.000,334.000 Z" class="cls-18"/>
+  <rect x="75" y="336" width="10" height="6" class="cls-21"/>
+  <text transform="translate(94 342) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">lib</tspan></text>
+  <path d="M87.000,354.000 L87.000,364.000 L73.000,364.000 L73.000,352.000 L79.000,352.000 L81.000,354.000 L87.000,354.000 Z" class="cls-18"/>
+  <rect x="75" y="356" width="10" height="6" class="cls-21"/>
+  <text transform="translate(94 362) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">log</tspan></text>
+  <path d="M87.000,374.000 L87.000,384.000 L73.000,384.000 L73.000,372.000 L79.000,372.000 L81.000,374.000 L87.000,374.000 Z" class="cls-18"/>
+  <rect x="75" y="376" width="10" height="6" class="cls-21"/>
+  <text transform="translate(94 382) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">public</tspan></text>
+  <path d="M87.000,394.000 L87.000,404.000 L73.000,404.000 L73.000,392.000 L79.000,392.000 L81.000,394.000 L87.000,394.000 Z" class="cls-18"/>
+  <rect x="75" y="396" width="10" height="6" class="cls-21"/>
+  <text transform="translate(94 402) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">test</tspan></text>
+  <path d="M87.000,414.000 L87.000,424.000 L73.000,424.000 L73.000,412.000 L79.000,412.000 L81.000,414.000 L87.000,414.000 Z" class="cls-18"/>
+  <rect x="75" y="416" width="10" height="6" class="cls-21"/>
+  <text transform="translate(94 422) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">vendor</tspan></text>
+  <text transform="translate(94 442) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">.gitignore</tspan></text>
+  <path d="M74.000,432.000 L74.000,447.000 L85.000,447.000 L85.000,435.000 L82.000,432.000 L74.000,432.000 Z" class="cls-18"/>
+  <path d="M76.000,434.000 L76.000,445.000 L83.000,445.000 L83.000,436.000 L81.000,436.000 L81.000,434.000 L76.000,434.000 Z" class="cls-34"/>
+  <path d="M77.000,439.000 L77.000,438.000 L82.000,438.000 L82.000,439.000 L77.000,439.000 Z" class="cls-18"/>
+  <path d="M77.000,441.000 L77.000,440.000 L82.000,440.000 L82.000,441.000 L77.000,441.000 Z" class="cls-18"/>
+  <path d="M77.000,443.000 L77.000,442.000 L82.000,442.000 L82.000,443.000 L77.000,443.000 Z" class="cls-18"/>
+  <rect x="82" y="434" width="1" height="1" class="cls-21"/>
+  <path d="M350.000,65.000 L350.000,77.000 L360.000,77.000 L360.000,67.400 L357.273,65.000 L350.000,65.000 Z" class="cls-35"/>
+  <path d="M351.818,66.600 L351.818,75.400 L358.182,75.400 L358.182,68.200 L356.364,68.200 L356.364,66.600 L351.818,66.600 Z" class="cls-34"/>
+  <path d="M352.727,69.000 L357.273,69.000 L358.182,70.600 L355.454,73.800 L354.545,73.800 L351.818,70.600 L352.727,69.000 Z" class="cls-36"/>
+  <rect x="357.281" y="66.594" width="0.907" height="0.813" class="cls-21"/>
+  <path d="M75.000,418.000 L75.000,419.000 L73.000,419.000 L75.000,418.000 Z" class="cls-34"/>
+  <text transform="translate(106 53) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">Navigate</tspan></text>
+  <text transform="translate(160 53) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">Code</tspan></text>
+  <text transform="translate(195 53) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">Refactor</tspan></text>
+  <text transform="translate(246 53) scale(0.53 0.53)" class="cls-26"><tspan class="cls-37">Run</tspan></text>
+  <text transform="translate(276 53) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">Tools</tspan></text>
+  <text transform="translate(312 53) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">VCS</tspan></text>
+  <text transform="translate(342 53) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">Window</tspan></text>
+  <text transform="translate(365 75) scale(0.53 0.53)" class="cls-26"><tspan class="cls-28">hello_controller.rb</tspan></text>
+  <text transform="translate(468 74) scale(0.53 0.53)" class="cls-26"><tspan class="cls-38">x</tspan></text>
+  <rect x="20" y="61" width="80" height="20" class="cls-10"/>
+  <text transform="translate(43 75) scale(0.53 0.53)" class="cls-26"><tspan class="cls-28">Project</tspan></text>
+  <text transform="translate(88 74) scale(0.53 0.53)" class="cls-26"><tspan class="cls-38">x</tspan></text>
+  <rect x="27" y="65" width="11" height="9" class="cls-39"/>
+  <rect x="28" y="67" width="9" height="6" class="cls-40"/>
+  <rect x="29" y="68" width="7" height="4" class="cls-41"/>
+  <path d="M32.000,69.000 L32.000,77.000 L24.000,77.000 L24.000,67.000 L30.000,67.000 L32.000,69.000 Z" class="cls-42"/>
+  <path d="M26.000,69.000 L26.000,75.000 L30.000,75.000 L30.000,70.000 L29.000,70.000 L29.000,69.000 L26.000,69.000 Z" class="cls-43"/>
+  <path d="M27.000,72.000 L27.000,71.000 L29.000,71.000 L29.000,72.000 L27.000,72.000 Z" class="cls-42"/>
+  <path d="M27.000,74.000 L27.000,73.000 L29.000,73.000 L29.000,74.000 L27.000,74.000 Z" class="cls-42"/>
+  <text transform="translate(393 53) scale(0.53 0.53)" class="cls-26"><tspan class="cls-27">Help</tspan></text>
+  <image xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAANCAMAAACuAq9NAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAn1BMVEUAAABrqtRrqtRrqtTge3Xge3Xge3VrqtRrqtTge3Xge3Xge3XYeXRrqtRpnL1mf5BjY2N1ZmbReHPge3Xge3VjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2PGlmG4j2HClGGvimG6kGHGlmHGlmHGlmHGlmHGlmHGlmFrqtTge3VrqNFjY2PaenTGlmEAAAAB73ZgAAAALnRSTlMAHrrzHrrzu7+7v/nI9OtOA9PU9B9a0ARyvAG4dh/rJCK0eh7a/fMiu7/z+fQfpNJrSQAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAB1SURBVAjXY2BkYmZiZAACFlY2VhYGdj09PQ4Ql1NfX5+LgRnINTAEAiMglxshywOWZWTn5eMH8gQEhYQ5RUDiomLiDAwSklIMUCAtwyArJw/jMSjIKSgqwXkMyiqqauoIroaxsbEmgqsF5GrjlFXW0NHQBbMAlwALfQ8300wAAAAASUVORK5CYII=" x="4" y="227" width="14" height="13"/>
+  <rect x="322" y="80" width="20" height="369" class="cls-44"/>
+  <rect x="324" y="82" width="16" height="278" rx="1" ry="1" class="cls-45"/>
+  <rect x="814" y="80" width="20" height="369" class="cls-44"/>
+  <rect x="816" y="82" width="16" height="278" rx="1" ry="1" class="cls-45"/>
+  <path d="M121.000,197.000 L121.000,209.000 L131.000,209.000 L131.000,199.400 L128.273,197.000 L121.000,197.000 Z" class="cls-35"/>
+  <path d="M122.818,198.600 L122.818,207.400 L129.182,207.400 L129.182,200.200 L127.364,200.200 L127.364,198.600 L122.818,198.600 Z" class="cls-34"/>
+  <path d="M123.727,201.000 L128.273,201.000 L129.182,202.600 L126.454,205.800 L125.545,205.800 L122.818,202.600 L123.727,201.000 Z" class="cls-18"/>
+  <path d="M121.000,181.000 L121.000,193.000 L131.000,193.000 L131.000,183.400 L128.273,181.000 L121.000,181.000 Z" class="cls-35"/>
+  <path d="M122.818,182.600 L122.818,191.400 L129.182,191.400 L129.182,184.200 L127.364,184.200 L127.364,182.600 L122.818,182.600 Z" class="cls-34"/>
+  <path d="M123.727,185.000 L128.273,185.000 L129.182,186.600 L126.454,189.800 L125.545,189.800 L122.818,186.600 L123.727,185.000 Z" class="cls-18"/>
+  <path d="M366.000,180.000 L367.000,180.000 L367.000,218.000 L366.000,218.000 L366.000,180.000 Z" class="cls-46"/>
+  <text transform="translate(248 84) scale(0.47 0.47)" class="cls-47"><tspan class="cls-48">Project Explorer</tspan></text>
+  <circle cx="249.141" cy="70.453" r="0.516" class="cls-49"/>
+  <g style="fill: #f8f8f8; filter: url(#drop-shadow-1)">
+    <path d="M449.745,60.998 L449.745,425.991 L240.994,425.991 L240.994,61.085 L449.745,60.998 Z" id="path-2" style="stroke: inherit; filter: none; fill: inherit" class="cls-50"/>
+  </g>
+  <use xlink:href="#path-2" style="stroke: #818181; filter: none; fill: none"/>
+  <rect x="241.875" y="77.875" width="206.094" height="16.781" class="cls-5"/>
+  <text transform="translate(256 73) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Run 'Development: TestApp'</tspan></text>
+  <text transform="translate(256 89) scale(0.3 0.3)" class="cls-51"><tspan class="cls-53">Debug 'Development: TestApp'</tspan></text>
+  <text transform="translate(256 107) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Run 'Development: TestApp' with coverage</tspan></text>
+  <text transform="translate(256 124) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Run...</tspan></text>
+  <text transform="translate(256 141) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Debug...</tspan></text>
+  <text transform="translate(256 158) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Edit Configurations...</tspan></text>
+  <text transform="translate(256 175) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Stop</tspan></text>
+  <text transform="translate(256 191) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Step Over</tspan></text>
+  <text transform="translate(256 315) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Resume Program</tspan></text>
+  <text transform="translate(256 333) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Evaluate Expression..</tspan></text>
+  <text transform="translate(256 350) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Quick Evaluate Expression</tspan></text>
+  <text transform="translate(256 367) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Show Execution Point</tspan></text>
+  <text transform="translate(256 384) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Toggle Line Breakpoint</tspan></text>
+  <text transform="translate(256 401) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Toggle Temporary Line Breakpoint</tspan></text>
+  <text transform="translate(256 417) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">View Breakpoints...</tspan></text>
+  <text transform="translate(256 209) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Force Step Over</tspan></text>
+  <text transform="translate(256 227) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Step Into</tspan></text>
+  <text transform="translate(256 244) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Force Step Into</tspan></text>
+  <text transform="translate(256 261) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Smart Step Into</tspan></text>
+  <text transform="translate(256 279) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Step Out</tspan></text>
+  <text transform="translate(256 298) scale(0.3 0.3)" class="cls-51"><tspan class="cls-52">Run to Cursor</tspan></text>
+  <path d="M446.694,249.312 L446.694,249.765 L250.969,249.765 L250.969,249.312 L446.694,249.312 Z" class="cls-54"/>
+  <path d="M446.694,266.572 L446.694,267.026 L250.969,267.026 L250.969,266.572 L446.694,266.572 Z" class="cls-54"/>
+  <path d="M446.694,196.720 L446.694,197.173 L250.969,197.173 L250.969,196.720 L446.694,196.720 Z" class="cls-54"/>
+  <path d="M446.694,214.410 L446.694,214.863 L250.969,214.863 L250.969,214.410 L446.694,214.410 Z" class="cls-54"/>
+  <path d="M446.694,285.030 L446.694,285.484 L250.969,285.484 L250.969,285.030 L446.694,285.030 Z" class="cls-54"/>
+</svg>

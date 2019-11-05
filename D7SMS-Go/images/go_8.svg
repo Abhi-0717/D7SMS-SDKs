@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="427" height="497" viewBox="0 0 427 497">
+    <defs>
+        <style>
+            .cls-1, .cls-15, .cls-16 {
+                fill: #f0f0f0;
+            }
+
+            .cls-1 {
+                stroke: #ababab;
+            }
+
+            .cls-1, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-19, .cls-5, .cls-6 {
+                stroke-linejoin: round;
+                stroke-width: 1px;
+            }
+
+            .cls-2 {
+                fill: #dbdbdb;
+            }
+
+            .cls-12, .cls-13, .cls-14, .cls-2, .cls-20, .cls-21, .cls-4 {
+                fill-rule: evenodd;
+            }
+
+            .cls-3, .cls-5, .cls-6 {
+                fill: #fff;
+            }
+
+            .cls-4 {
+                fill: #3a3935;
+            }
+
+            .cls-15, .cls-19, .cls-5 {
+                stroke: #7f7f7f;
+            }
+
+            .cls-16, .cls-6 {
+                stroke: #007acc;
+            }
+
+            .cls-7 {
+                fill: #e0e0e0;
+            }
+
+            .cls-8, .cls-9 {
+                font-size: 13.333px;
+            }
+
+            .cls-11, .cls-18, .cls-9 {
+                fill: #161616;
+            }
+
+            .cls-11, .cls-9 {
+                font-family: "Myriad Pro";
+            }
+
+            .cls-10, .cls-11 {
+                font-size: 14.667px;
+            }
+
+            .cls-12 {
+                fill: #f7e5ae;
+            }
+
+            .cls-12, .cls-13 {
+                stroke: #a3661b;
+            }
+
+            .cls-13 {
+                fill: #f5d487;
+            }
+
+            .cls-14 {
+                fill: #8bbaf4;
+                stroke: #3278ce;
+            }
+
+            .cls-17, .cls-18 {
+                font-size: 32.869px;
+            }
+
+            .cls-18 {
+                font-family: "Open Sans";
+            }
+
+            .cls-19 {
+                fill: #dfdfdf;
+            }
+
+            .cls-20 {
+                fill: #7f7f7f;
+            }
+
+            .cls-21 {
+                fill: #afaeae;
+            }
+        </style>
+    </defs>
+    <rect x="2" y="2" width="423" height="494" class="cls-1" />
+    <path d="M424.000,443.000 L424.000,444.000 L3.000,444.000 L3.000,443.000 L424.000,443.000 Z" class="cls-2" />
+    <path d="M424.000,96.000 L424.000,97.000 L3.000,97.000 L3.000,96.000 L424.000,96.000 Z" class="cls-2" />
+    <rect x="3" y="3" width="421" height="93" class="cls-3" />
+    <path d="M332.713,18.712 L328.089,18.712 L326.456,18.712 L321.832,18.712 C321.381,18.712 321.015,18.392 321.015,17.997 C321.015,17.603 321.381,17.283 321.832,17.283 L326.456,17.283 L328.089,17.283 L332.713,17.283 C333.164,17.283 333.530,17.603 333.530,17.997 C333.530,18.392 333.164,18.712 332.713,18.712 Z" class="cls-4" />
+    <path d="M405.762,14.502 L402.362,17.997 L405.762,21.493 L405.762,21.493 C405.918,21.653 406.014,21.873 406.014,22.117 C406.014,22.605 405.629,23.000 405.155,23.000 C404.918,23.000 404.703,22.901 404.548,22.741 L404.548,22.741 L401.147,19.246 L397.747,22.741 L397.747,22.741 C397.591,22.901 397.376,23.000 397.139,23.000 C396.665,23.000 396.280,22.605 396.280,22.117 C396.280,21.873 396.377,21.653 396.532,21.493 L396.532,21.493 L399.933,17.997 L396.532,14.502 L396.532,14.502 C396.377,14.342 396.280,14.121 396.280,13.878 C396.280,13.390 396.665,12.995 397.139,12.995 C397.376,12.995 397.591,13.094 397.747,13.253 L397.747,13.253 L401.147,16.749 L404.548,13.253 L404.548,13.253 C404.703,13.094 404.918,12.995 405.155,12.995 C405.629,12.995 406.014,13.390 406.014,13.878 C406.014,14.121 405.918,14.342 405.762,14.502 L405.762,14.502 Z" class="cls-4" />
+    <path d="M368.620,23.000 L359.799,23.000 C359.547,23.000 359.343,22.790 359.343,22.531 L359.343,13.464 C359.343,13.205 359.547,12.995 359.799,12.995 L368.620,12.995 C368.872,12.995 369.076,13.205 369.076,13.464 L369.076,22.531 C369.076,22.790 368.872,23.000 368.620,23.000 ZM368.164,13.933 L360.256,13.933 L360.256,22.062 L368.164,22.062 L368.164,13.933 Z" class="cls-4" />
+    <rect x="14" y="131" width="400" height="22" class="cls-5" />
+    <rect x="92" y="355" width="321" height="22" class="cls-6" />
+    <rect x="13" y="158" width="401" height="192" class="cls-5" />
+    <rect x="49" y="243" width="43" height="17" class="cls-7" />
+    <text x="25" y="22" class="cls-8"><tspan class="cls-9">New Folder</tspan></text>
+    <text x="13" y="56" class="cls-10"><tspan class="cls-11">Folder</tspan></text>
+    <text x="22" y="78" class="cls-8"><tspan class="cls-9">Create a new folder resource.</tspan></text>
+    <text x="11" y="122" class="cls-8"><tspan class="cls-9">Enter or select the parent folder:</tspan></text>
+    <text x="12" y="370" class="cls-8"><tspan class="cls-9">Folder name:</tspan></text>
+    <text x="100" y="370" class="cls-8"><tspan class="cls-9">test.com</tspan></text>
+    <path d="M53.999,214.785 L53.999,221.004 L63.869,221.004 L63.869,214.785 L59.383,214.785 L59.383,213.008 L54.897,213.008 L54.897,214.785 L53.999,214.785 Z" class="cls-12" />
+    <path d="M67.991,217.281 L59.916,217.281 L56.327,220.834 L64.402,220.834 L67.991,217.281 Z" class="cls-13" />
+    <path d="M53.999,231.785 L53.999,238.004 L63.869,238.004 L63.869,231.785 L59.383,231.785 L59.383,230.008 L54.897,230.008 L54.897,231.785 L53.999,231.785 Z" class="cls-12" />
+    <path d="M67.991,234.281 L59.916,234.281 L56.327,237.834 L64.402,237.834 L67.991,234.281 Z" class="cls-13" />
+    <path d="M53.999,248.785 L53.999,255.004 L63.869,255.004 L63.869,248.785 L59.383,248.785 L59.383,247.008 L54.897,247.008 L54.897,248.785 L53.999,248.785 Z" class="cls-12" />
+    <path d="M67.991,251.281 L59.916,251.281 L56.327,254.834 L64.402,254.834 L67.991,251.281 Z" class="cls-13" />
+    <path d="M34.999,181.785 L34.999,188.004 L44.869,188.004 L44.869,181.785 L40.383,181.785 L40.383,180.008 L35.897,180.008 L35.897,181.785 L34.999,181.785 Z" class="cls-12" />
+    <path d="M48.991,184.281 L40.916,184.281 L37.327,187.834 L45.402,187.834 L48.991,184.281 Z" class="cls-14" />
+    <path d="M34.999,198.785 L34.999,205.004 L44.869,205.004 L44.869,198.785 L40.383,198.785 L40.383,197.008 L35.897,197.008 L35.897,198.785 L34.999,198.785 Z" class="cls-12" />
+    <path d="M48.991,201.281 L40.916,201.281 L37.327,204.834 L45.402,204.834 L48.991,201.281 Z" class="cls-14" />
+    <text x="19" y="146" class="cls-8"><tspan class="cls-9">Test/src</tspan></text>
+    <text x="52" y="188" class="cls-8"><tspan class="cls-9">d7sms_lib</tspan></text>
+    <text x="52" y="205" class="cls-8"><tspan class="cls-9">Test</tspan></text>
+    <text x="71" y="222" class="cls-8"><tspan class="cls-9">bin</tspan></text>
+    <text x="71" y="238" class="cls-8"><tspan class="cls-9">pkg</tspan></text>
+    <text x="71" y="255" class="cls-8"><tspan class="cls-9">src</tspan></text>
+    <rect x="332.313" y="457.781" width="80.718" height="23.688" class="cls-15" />
+    <rect x="245.188" y="457.781" width="80.656" height="23.688" class="cls-16" />
+    <text transform="translate(269 474) scale(0.36 0.36)" class="cls-17"><tspan class="cls-18">Finish</tspan></text>
+    <text transform="translate(355 474) scale(0.36 0.36)" class="cls-17"><tspan class="cls-18">Cancel</tspan></text>
+    <rect x="13.313" y="384.781" width="90.719" height="23.688" class="cls-19" />
+    <text transform="translate(24 401) scale(0.36 0.36)" class="cls-17"><tspan class="cls-18">Advanced &gt;&gt;</tspan></text>
+    <path d="M30.010,200.290 L26.003,204.867 L21.996,200.290 L23.132,198.992 L26.003,202.270 L28.873,198.992 L30.010,200.290 Z" class="cls-20" />
+    <path d="M24.489,180.714 L28.996,184.862 L24.489,189.009 L23.211,187.833 L26.439,184.862 L23.211,181.891 L24.489,180.714 Z" class="cls-21" />
+</svg>

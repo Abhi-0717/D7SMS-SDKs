@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="844" height="540" viewBox="0 0 844 540">
+    <defs>
+        <style>
+            .cls-1 {
+            fill: #fff;
+            stroke: #cacace;
+            }
+
+            .cls-1, .cls-15 {
+            stroke-linejoin: round;
+            stroke-width: 1px;
+            }
+
+            .cls-1, .cls-11, .cls-15 {
+            fill-rule: evenodd;
+            }
+
+            .cls-2 {
+            fill: #e6e6e6;
+            }
+
+            .cls-3 {
+            fill: #b8daf1;
+            }
+
+            .cls-4, .cls-5 {
+            font-size: 20px;
+            }
+
+            .cls-5 {
+            fill: #2e2e2e;
+            }
+
+            .cls-10, .cls-5, .cls-7, .cls-9 {
+            font-family: "Myriad Pro";
+            }
+
+            .cls-6, .cls-7 {
+            font-size: 23px;
+            }
+
+            .cls-7 {
+            fill: #111;
+            }
+
+            .cls-10, .cls-8, .cls-9 {
+            font-size: 24px;
+            }
+
+            .cls-9 {
+            fill: #4d4a55;
+            }
+
+            .cls-10, .cls-14, .cls-19 {
+            fill: #42433f;
+            }
+
+            .cls-11 {
+            fill: #a0a0a0;
+            }
+
+            .cls-12 {
+            fill: #171814;
+            }
+
+            .cls-13 {
+            fill: #272822;
+            }
+
+            .cls-15 {
+            fill: #f6f6f6;
+            stroke: #d1d2de;
+            }
+
+            .cls-16, .cls-17, .cls-18, .cls-19 {
+            font-size: 32.869px;
+            }
+
+            .cls-17 {
+            fill: #cdcdd1;
+            }
+
+            .cls-17, .cls-18, .cls-19 {
+            font-family: "Open Sans";
+            }
+
+            .cls-18 {
+            fill: #d3d3d6;
+            }
+        </style>
+    </defs>
+    <path d="M0.000,0.000 L843.000,0.000 L844.000,540.000 L0.000,540.000 L0.000,0.000 Z" class="cls-1" />
+    <rect x="1" y="57" width="146" height="482" class="cls-2" />
+    <rect x="1" y="27" width="34" height="29" class="cls-3" />
+    <text transform="translate(179 43) scale(0.5 0.5)" class="cls-4"><tspan class="cls-5">View</tspan></text>
+    <text transform="translate(11 43) scale(0.5 0.5)" class="cls-4"><tspan class="cls-5">File</tspan></text>
+    <text transform="translate(11 19) scale(0.5 0.5)" class="cls-6"><tspan class="cls-7">untitled - Sublime Text</tspan></text>
+    <text transform="translate(375 43) scale(0.5 0.5)" class="cls-4"><tspan class="cls-5">Preferences</tspan></text>
+    <text transform="translate(447 43) scale(0.5 0.5)" class="cls-4"><tspan class="cls-5">Help</tspan></text>
+    <text transform="translate(319 43) scale(0.5 0.5)" class="cls-4"><tspan class="cls-5">Project</tspan></text>
+    <text transform="translate(269 43) scale(0.5 0.5)" class="cls-4"><tspan class="cls-5">Tools</tspan></text>
+    <text transform="translate(44 43) scale(0.5 0.5)" class="cls-4"><tspan class="cls-5">Edit</tspan></text>
+    <text transform="translate(79 43) scale(0.5 0.5)" class="cls-4"><tspan class="cls-5">Selection</tspan></text>
+    <text transform="translate(141 43) scale(0.5 0.5)" class="cls-4"><tspan class="cls-5">Find</tspan></text>
+    <text transform="translate(223 43) scale(0.5 0.5)" class="cls-4"><tspan class="cls-5">Goto</tspan></text>
+    <text transform="translate(7 79) scale(0.5 0.5)" class="cls-8"><tspan class="cls-9">node_modules</tspan></text>
+    <text transform="translate(7 98) scale(0.5 0.5)" class="cls-8"><tspan class="cls-9">test</tspan></text>
+    <text transform="translate(7 120) scale(0.5 0.5)" class="cls-8"><tspan class="cls-10">index.js</tspan></text>
+    <text transform="translate(7 141) scale(0.5 0.5)" class="cls-8"><tspan class="cls-9">LICENSE</tspan></text>
+    <path d="M-0.000,57.000 L-0.000,56.000 L843.000,56.000 L843.000,57.000 L-0.000,57.000 Z" class="cls-11" />
+    <rect x="147" y="56" width="695" height="28" class="cls-12" />
+    <path d="M175.000,69.511 L168.600,73.012 L168.600,66.010 L175.000,69.511 Z" class="cls-11" />
+    <path d="M159.000,69.511 L165.400,73.012 L165.400,66.010 L159.000,69.511 Z" class="cls-11" />
+    <rect x="147" y="84" width="695" height="455" class="cls-13" />
+    <rect x="147" y="92" width="29" height="14" class="cls-14" />
+    <path d="M212.006,55.995 L212.006,278.976 L-0.007,278.976 L-0.007,56.212 L212.006,55.995 Z" class="cls-15" />
+    <rect x="2" y="87" width="209" height="15" class="cls-3" />
+    <text transform="translate(13 69) scale(0.26 0.26)" class="cls-16"><tspan class="cls-17">New File</tspan></text>
+    <text transform="translate(13 83) scale(0.26 0.26)" class="cls-16"><tspan class="cls-18">Open File...</tspan></text>
+    <text transform="translate(13 97) scale(0.26 0.26)" class="cls-16"><tspan class="cls-19">Open Folder...</tspan></text>
+    <text transform="translate(13 110) scale(0.26 0.26)" class="cls-16"><tspan class="cls-17">Open Recent</tspan></text>
+    <text transform="translate(13 123) scale(0.26 0.26)" class="cls-16"><tspan class="cls-17">Reopen with Encoding</tspan></text>
+    <text transform="translate(13 136) scale(0.26 0.26)" class="cls-16"><tspan class="cls-17">New View into File</tspan></text>
+    <text transform="translate(13 150) scale(0.26 0.26)" class="cls-16"><tspan class="cls-18">Save</tspan></text>
+    <text transform="translate(13 164) scale(0.26 0.26)" class="cls-16"><tspan class="cls-17">Save with Encoding</tspan></text>
+    <text transform="translate(13 177) scale(0.26 0.26)" class="cls-16"><tspan class="cls-17">Save As...</tspan></text>
+    <text transform="translate(13 190) scale(0.26 0.26)" class="cls-16"><tspan class="cls-17">Save All</tspan></text>
+    <text transform="translate(13 203) scale(0.26 0.26)" class="cls-16"><tspan class="cls-17">New Window</tspan></text>
+    <text transform="translate(13 217) scale(0.26 0.26)" class="cls-16"><tspan class="cls-17">Close Window</tspan></text>
+    <text transform="translate(13 230) scale(0.26 0.26)" class="cls-16"><tspan class="cls-17">Close File</tspan></text>
+    <text transform="translate(13 243) scale(0.26 0.26)" class="cls-16"><tspan class="cls-17">Revert File</tspan></text>
+    <text transform="translate(13 256) scale(0.26 0.26)" class="cls-16"><tspan class="cls-17">Close All Files</tspan></text>
+    <text transform="translate(13 270) scale(0.26 0.26)" class="cls-16"><tspan class="cls-17">Exit</tspan></text>
+</svg>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="850" height="576" viewBox="0 0 850 576">
+    <defs>
+        <style>
+            .cls-1, .cls-31, .cls-36, .cls-44, .cls-6 {
+            fill: #fff;
+            }
+
+            .cls-1, .cls-31 {
+            stroke: #cacace;
+            }
+
+            .cls-1, .cls-23, .cls-25, .cls-26, .cls-31, .cls-38, .cls-44 {
+            stroke-linejoin: round;
+            stroke-width: 1px;
+            }
+
+            .cls-2 {
+            fill: #aeaeb0;
+            }
+
+            .cls-14, .cls-2, .cls-22, .cls-23, .cls-24, .cls-25, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-35, .cls-43, .cls-44, .cls-5, .cls-6, .cls-9 {
+            fill-rule: evenodd;
+            }
+
+            .cls-24, .cls-3 {
+            fill: #d4d4d4;
+            }
+
+            .cls-4 {
+            fill: #f7f7f7;
+            }
+
+            .cls-5 {
+            fill: #f0f0f0;
+            }
+
+            .cls-7 {
+            fill: #c5cede;
+            }
+
+            .cls-8 {
+            fill: #b6b6b6;
+            }
+
+            .cls-9 {
+            fill: #e8e8e8;
+            }
+
+            .cls-10 {
+            fill: #dee4ee;
+            }
+
+            .cls-11 {
+            fill: #9cbaef;
+            }
+
+            .cls-12, .cls-13, .cls-39 {
+            font-size: 24px;
+            }
+
+            .cls-13, .cls-34 {
+            fill: #4d4a55;
+            }
+
+            .cls-13, .cls-34, .cls-39 {
+            font-family: "Myriad Pro";
+            }
+
+            .cls-14 {
+            fill: #a0a0a0;
+            }
+
+            .cls-15, .cls-16 {
+            font-size: 23px;
+            }
+
+            .cls-16 {
+            fill: #bebdbd;
+            font-family: "Open Sans";
+            }
+
+            .cls-17, .cls-18, .cls-19, .cls-20, .cls-21 {
+            font-size: 12px;
+            }
+
+            .cls-18, .cls-35 {
+            fill: #2e2e2e;
+            }
+
+            .cls-18, .cls-19, .cls-20, .cls-21, .cls-42 {
+            font-family: "Calibri";
+            }
+
+            .cls-19, .cls-42, .cls-43 {
+            fill: #3535ff;
+            }
+
+            .cls-20 {
+            fill: #1f9d31;
+            }
+
+            .cls-22 {
+            fill: #bd9662;
+            }
+
+            .cls-23, .cls-25, .cls-26 {
+            fill: #538ae3;
+            }
+
+            .cls-23 {
+            stroke: #fff;
+            }
+
+            .cls-25, .cls-26 {
+            stroke: #d4d4d4;
+            }
+
+            .cls-27 {
+            fill: #d19340;
+            }
+
+            .cls-28 {
+            fill: #acacac;
+            }
+
+            .cls-29 {
+            fill: #cfcfcf;
+            }
+
+            .cls-30 {
+            fill: #e4e4e4;
+            }
+
+            .cls-32 {
+            fill: #eaeaea;
+            }
+
+            .cls-33, .cls-34 {
+            font-size: 20px;
+            }
+
+            .cls-37 {
+            fill: #ffc;
+            }
+
+            .cls-38 {
+            fill: #a8e9fc;
+            stroke: #1f839f;
+            }
+
+            .cls-39 {
+            fill: #1b7791;
+            }
+
+            .cls-40 {
+            fill: #000;
+            opacity: 0.3;
+            }
+
+            .cls-41, .cls-42 {
+            font-size: 15.557px;
+            }
+
+            .cls-44 {
+            stroke: #333;
+            }
+        </style>
+    </defs>
+    <rect y="-1" width="850" height="577" class="cls-1" />
+    <path d="M396.070,119.026 L396.998,119.026 L396.998,575.000 L396.070,575.000 L396.070,119.026 Z" class="cls-2" />
+    <rect x="1" y="49" width="848" height="32" class="cls-3" />
+    <rect x="1" width="848" height="49" class="cls-4" />
+    <path d="M364.684,101.000 L395.657,101.000 L395.657,578.000 L364.684,578.000 L364.684,101.000 Z" class="cls-5" />
+    <path d="M1.000,68.000 L364.684,68.000 L364.684,573.974 L1.000,573.974 L1.000,68.000 Z" class="cls-6" />
+    <rect x="21.375" y="68.688" width="343.625" height="28.031" class="cls-7" />
+    <rect x="1" y="69" width="19" height="68" class="cls-8" />
+    <path d="M1.000,138.812 L19.983,138.812 L19.983,575.000 L1.000,575.000 L1.000,138.812 Z" class="cls-9" />
+    <rect x="22.375" y="254.75" width="341.625" height="16.031" class="cls-10" />
+    <rect x="423.438" y="535.656" width="132.718" height="13.844" class="cls-11" />
+    <text transform="translate(30 63) scale(0.45 0.45)" class="cls-12"><tspan class="cls-13">SampleApplication</tspan></text>
+    <text transform="translate(39 87) scale(0.5 0.5)" class="cls-12"><tspan class="cls-13">Project</tspan></text>
+    <path d="M197.694,87.000 L194.771,81.937 L200.617,81.937 L197.694,87.000 Z" class="cls-14" />
+    <path d="M30.560,113.894 L27.991,109.454 L33.129,109.454 L30.560,113.894 Z" class="cls-14" />
+    <path d="M52.802,129.690 L48.407,132.322 L48.407,127.058 L52.802,129.690 Z" class="cls-14" />
+    <text transform="translate(195 17) scale(0.5 0.5)" class="cls-15"><tspan class="cls-16">Code</tspan></text>
+    <text transform="translate(11 17) scale(0.5 0.5)" class="cls-15"><tspan class="cls-16">File</tspan></text>
+    <text transform="translate(530 17) scale(0.5 0.5)" class="cls-15"><tspan class="cls-16">VCS</tspan></text>
+    <text transform="translate(569 17) scale(0.5 0.5)" class="cls-15"><tspan class="cls-16">Window</tspan></text>
+    <text transform="translate(632 17) scale(0.5 0.5)" class="cls-15"><tspan class="cls-16">Help</tspan></text>
+    <text transform="translate(481 17) scale(0.5 0.5)" class="cls-15"><tspan class="cls-16">Tools</tspan></text>
+    <text transform="translate(437 17) scale(0.5 0.5)" class="cls-15"><tspan class="cls-16">Run</tspan></text>
+    <text transform="translate(383 17) scale(0.5 0.5)" class="cls-15"><tspan class="cls-16">Build</tspan></text>
+    <text transform="translate(44 17) scale(0.5 0.5)" class="cls-15"><tspan class="cls-16">Edit</tspan></text>
+    <text transform="translate(82 17) scale(0.5 0.5)" class="cls-15"><tspan class="cls-16">View</tspan></text>
+    <text transform="translate(128 17) scale(0.5 0.5)" class="cls-15"><tspan class="cls-16">Navigate</tspan></text>
+    <text transform="translate(311 17) scale(0.5 0.5)" class="cls-15"><tspan class="cls-16">Refactor</tspan></text>
+    <text transform="translate(246 17) scale(0.5 0.5)" class="cls-15"><tspan class="cls-16">Analyze</tspan></text>
+    <text transform="translate(56 116) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">SampleApplication</tspan></text>
+    <text transform="translate(409 151) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">android {</tspan></text>
+    <text transform="translate(427 163) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">compileSdkVersion</tspan></text>
+    <text transform="translate(502 163) scale(0.77 0.77)" class="cls-17"><tspan class="cls-19">23</tspan></text>
+    <text transform="translate(409 129) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">apply</tspan></text>
+    <text transform="translate(444 129) scale(0.77 0.77)" class="cls-17"><tspan class="cls-20">plugin: 'com.android.application'</tspan></text>
+    <text transform="translate(427 177) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">buidToolsVersion</tspan></text>
+    <text transform="translate(427 216) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">defaultConfig {</tspan></text>
+    <text transform="translate(439 228) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">applicationId</tspan></text>
+    <text transform="translate(428 403) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">}</tspan></text>
+    <text transform="translate(443 387) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">}</tspan></text>
+    <text transform="translate(428 309) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">}</tspan></text>
+    <text transform="translate(410 479) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">}</tspan></text>
+    <text transform="translate(427 467) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">}</tspan></text>
+    <text transform="translate(410 564) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">}</tspan></text>
+    <text transform="translate(491 228) scale(0.77 0.77)" class="cls-17"><tspan class="cls-20">"com.example.sampleapp.sampleapplication"</tspan></text>
+    <text transform="translate(439 248) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">mindSdkVersion</tspan></text>
+    <text transform="translate(504 248) scale(0.77 0.77)" class="cls-17"><tspan class="cls-19">19</tspan></text>
+    <text transform="translate(439 261) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">targetSdkVersion</tspan></text>
+    <text transform="translate(507 261) scale(0.77 0.77)" class="cls-17"><tspan class="cls-19">23</tspan></text>
+    <text transform="translate(439 276) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">versionCode</tspan></text>
+    <text transform="translate(507 276) scale(0.77 0.77)" class="cls-17"><tspan class="cls-20">1</tspan></text>
+    <text transform="translate(439 292) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">versionName</tspan></text>
+    <text transform="translate(428 324) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">buildTypes</tspan></text>
+    <text transform="translate(444 336) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">release  {</tspan></text>
+    <text transform="translate(472 323) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">{</tspan></text>
+    <text transform="translate(461 353) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">minifyEnabled</tspan></text>
+    <text transform="translate(519 353) scale(0.77 0.77)" class="cls-17"><tspan class="cls-21">false</tspan></text>
+    <text transform="translate(461 368) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">proguardFiles getDefaultProguardFile</tspan></text>
+    <text transform="translate(411 494) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">dependencies  {</tspan></text>
+    <text transform="translate(428 416) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">packagingOptions {</tspan></text>
+    <text transform="translate(429 507) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">compile fileTree</tspan></text>
+    <text transform="translate(452 431) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">exclude</tspan></text>
+    <text transform="translate(452 443) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">exclude</tspan></text>
+    <text transform="translate(452 456) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">exclude</tspan></text>
+    <text transform="translate(429 519) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">testCompile</tspan></text>
+    <text transform="translate(429 532) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">compile</tspan></text>
+    <text transform="translate(496 507) scale(0.77 0.77)" class="cls-17"><tspan class="cls-20">(dir:  'libs',  include:  ['*.jar'])</tspan></text>
+    <text transform="translate(496 519) scale(0.77 0.77)" class="cls-17"><tspan class="cls-20">'junit:junit:4.12'</tspan></text>
+    <text transform="translate(496 532) scale(0.77 0.77)" class="cls-17"><tspan class="cls-20">'com.android.support:appcompat-v7:23.3.0'</tspan></text>
+    <text transform="translate(496 431) scale(0.77 0.77)" class="cls-17"><tspan class="cls-20">&apos;META-INF/LICENSE&apos;</tspan></text>
+    <text transform="translate(496 443) scale(0.77 0.77)" class="cls-17"><tspan class="cls-20">&apos;META-INF/NOTICE&apos;</tspan></text>
+    <text transform="translate(496 456) scale(0.77 0.77)" class="cls-17"><tspan class="cls-20">&apos;META-INF/DEPENDENCIES&apos;</tspan></text>
+    <text transform="translate(429 545) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">compile project (path:  ':D7SMSLib')</tspan></text>
+    <text transform="translate(607 368) scale(0.77 0.77)" class="cls-17"><tspan class="cls-20">('proguard-android.txt'), 'proguard-rules.pro'</tspan></text>
+    <text transform="translate(507 292) scale(0.77 0.77)" class="cls-17"><tspan class="cls-20">"1.0"</tspan></text>
+    <text transform="translate(501 177) scale(0.77 0.77)" class="cls-17"><tspan class="cls-20">"23.0"</tspan></text>
+    <rect x="392" y="209.469" width="10" height="9.531" class="cls-1" />
+    <path d="M51.044,116.525 L38.739,116.525 L38.739,106.000 L44.013,106.000 L45.770,107.754 L51.044,107.754 L51.044,116.525 Z" class="cls-22" />
+    <path d="M40.497,109.508 L49.286,109.508 L49.286,114.771 L40.497,114.771 L40.497,109.508 Z" class="cls-6" />
+    <path d="M47.528,113.017 L51.923,113.017 L51.923,117.402 L47.528,117.402 L47.528,113.017 Z" class="cls-23" />
+    <path d="M25.699,63.387 L13.000,63.387 L13.000,52.664 L18.442,52.664 L20.256,54.451 L25.699,54.451 L25.699,63.387 Z" class="cls-22" />
+    <path d="M14.814,56.238 L23.885,56.238 L23.885,61.600 L14.814,61.600 L14.814,56.238 Z" class="cls-24" />
+    <path d="M22.071,59.812 L26.606,59.812 L26.606,64.281 L22.071,64.281 L22.071,59.812 Z" class="cls-25" />
+    <text transform="translate(155 63) scale(0.45 0.45)" class="cls-12"><tspan class="cls-13">app</tspan></text>
+    <path d="M151.316,63.387 L138.617,63.387 L138.617,52.664 L144.060,52.664 L145.874,54.451 L151.316,54.451 L151.316,63.387 Z" class="cls-22" />
+    <path d="M140.431,56.238 L149.502,56.238 L149.502,61.600 L140.431,61.600 L140.431,56.238 Z" class="cls-24" />
+    <rect x="147.688" y="59.813" width="4.531" height="4.469" class="cls-26" />
+    <text transform="translate(78 133) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">.gradle</tspan></text>
+    <text transform="translate(14 124) rotate(-90) scale(0.5 0.5)" class="cls-12"><tspan class="cls-13">1: Project</tspan></text>
+    <text transform="translate(14 209) rotate(-90) scale(0.5 0.5)" class="cls-12"><tspan class="cls-13">7: Structure</tspan></text>
+    <text transform="translate(14 282) rotate(-90) scale(0.5 0.5)" class="cls-12"><tspan class="cls-13">Capture</tspan></text>
+    <path d="M73.017,134.945 L60.712,134.945 L60.712,124.419 L65.986,124.419 L67.743,126.173 L73.017,126.173 L73.017,134.945 Z" class="cls-27" />
+    <path d="M62.470,127.928 L71.259,127.928 L71.259,133.190 L62.470,133.190 L62.470,127.928 Z" class="cls-6" />
+    <path d="M32.587,455.467 L28.192,458.099 L28.192,452.834 L32.587,455.467 Z" class="cls-14" />
+    <path d="M53.681,148.109 L49.286,150.742 L49.286,145.477 L53.681,148.109 Z" class="cls-14" />
+    <text transform="translate(78 151) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">.idea</tspan></text>
+    <text transform="translate(90 188) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">build</tspan></text>
+    <text transform="translate(49 460) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">External Libraries</tspan></text>
+    <path d="M73.017,152.487 L60.712,152.487 L60.712,141.961 L65.986,141.961 L67.743,143.716 L73.017,143.716 L73.017,152.487 Z" class="cls-22" />
+    <path d="M62.470,145.470 L71.259,145.470 L71.259,150.733 L62.470,150.733 L62.470,145.470 Z" class="cls-6" />
+    <path d="M51.036,167.398 L48.398,163.012 L53.673,163.012 L51.036,167.398 Z" class="cls-14" />
+    <text transform="translate(78 168) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">app</tspan></text>
+    <path d="M73.017,170.029 L60.712,170.029 L60.712,159.504 L65.986,159.504 L67.743,161.258 L73.017,161.258 L73.017,170.029 Z" class="cls-22" />
+    <path d="M62.470,163.012 L71.259,163.012 L71.259,168.275 L62.470,168.275 L62.470,163.012 Z" class="cls-6" />
+    <path d="M65.107,184.071 L60.712,186.703 L60.712,181.439 L65.107,184.071 Z" class="cls-14" />
+    <path d="M85.322,189.325 L73.017,189.325 L73.017,178.800 L78.290,178.800 L80.048,180.554 L85.322,180.554 L85.322,189.325 Z" class="cls-22" />
+    <path d="M74.775,182.309 L83.564,182.309 L83.564,187.571 L74.775,187.571 L74.775,182.309 Z" class="cls-6" />
+    <path d="M1.000,28.000 L1.000,27.000 L849.000,27.000 L849.000,28.000 L1.000,28.000 Z" class="cls-14" />
+    <path d="M1.000,49.000 L1.000,48.000 L849.000,48.000 L849.000,49.000 L1.000,49.000 Z" class="cls-14" />
+    <path d="M-0.000,69.000 L-0.000,68.000 L849.000,68.000 L849.000,69.000 L-0.000,69.000 Z" class="cls-14" />
+    <path d="M365.000,102.000 L365.000,101.000 L849.000,101.000 L849.000,102.000 L365.000,102.000 Z" class="cls-14" />
+    <path d="M21.261,98.000 L21.261,97.000 L365.000,97.000 L365.000,98.000 L21.261,98.000 Z" class="cls-14" />
+    <rect x="364.188" y="69" width="484.812" height="27.719" class="cls-7" />
+    <path d="M364.016,98.000 L364.016,97.011 L849.000,97.011 L849.000,98.000 L364.016,98.000 Z" class="cls-14" />
+    <path d="M20.396,68.000 L21.324,68.000 L21.324,575.000 L20.396,575.000 L20.396,68.000 Z" class="cls-28" />
+    <path d="M364.098,68.000 L365.025,68.000 L365.025,575.000 L364.098,575.000 L364.098,68.000 Z" class="cls-28" />
+    <path d="M13.000,31.276 L24.207,31.276 L24.207,42.414 L13.000,42.414 L13.000,31.276 Z" class="cls-29" />
+    <path d="M28.162,31.276 L39.369,31.276 L39.369,42.414 L28.162,42.414 L28.162,31.276 Z" class="cls-29" />
+    <path d="M43.324,31.276 L54.531,31.276 L54.531,42.414 L43.324,42.414 L43.324,31.276 Z" class="cls-29" />
+    <path d="M63.760,31.276 L74.966,31.276 L74.966,42.414 L63.760,42.414 L63.760,31.276 Z" class="cls-29" />
+    <path d="M99.358,31.276 L110.564,31.276 L110.564,42.414 L99.358,42.414 L99.358,31.276 Z" class="cls-29" />
+    <path d="M119.793,31.276 L131.000,31.276 L131.000,42.414 L119.793,42.414 L119.793,31.276 Z" class="cls-29" />
+    <path d="M78.922,31.276 L90.128,31.276 L90.128,42.414 L78.922,42.414 L78.922,31.276 Z" class="cls-29" />
+    <path d="M392.398,209.900 L401.602,209.900 L401.602,217.700 L392.398,217.700 L392.398,209.900 Z" class="cls-6" />
+    <path d="M58.486,28.000 L59.145,28.000 L59.145,47.000 L58.486,47.000 L58.486,28.000 Z" class="cls-29" />
+    <path d="M94.743,28.000 L95.402,28.000 L95.402,47.000 L94.743,47.000 L94.743,28.000 Z" class="cls-29" />
+    <path d="M114.520,28.000 L115.179,28.000 L115.179,47.000 L114.520,47.000 L114.520,28.000 Z" class="cls-30" />
+    <path d="M140.000,31.276 L151.207,31.276 L151.207,42.414 L140.000,42.414 L140.000,31.276 Z" class="cls-29" />
+    <path d="M155.162,31.276 L166.369,31.276 L166.369,42.414 L155.162,42.414 L155.162,31.276 Z" class="cls-29" />
+    <path d="M170.324,31.276 L181.531,31.276 L181.531,42.414 L170.324,42.414 L170.324,31.276 Z" class="cls-29" />
+    <path d="M190.760,31.276 L201.966,31.276 L201.966,42.414 L190.760,42.414 L190.760,31.276 Z" class="cls-29" />
+    <path d="M226.358,31.276 L237.564,31.276 L237.564,42.414 L226.358,42.414 L226.358,31.276 Z" class="cls-29" />
+    <path d="M246.793,31.276 L258.000,31.276 L258.000,42.414 L246.793,42.414 L246.793,31.276 Z" class="cls-29" />
+    <path d="M205.922,31.276 L217.128,31.276 L217.128,42.414 L205.922,42.414 L205.922,31.276 Z" class="cls-29" />
+    <path d="M185.486,28.000 L186.145,28.000 L186.145,47.000 L185.486,47.000 L185.486,28.000 Z" class="cls-29" />
+    <path d="M221.743,28.000 L222.402,28.000 L222.402,47.000 L221.743,47.000 L221.743,28.000 Z" class="cls-29" />
+    <path d="M241.519,28.000 L242.179,28.000 L242.179,47.000 L241.519,47.000 L241.519,28.000 Z" class="cls-30" />
+    <path d="M267.000,31.276 L278.207,31.276 L278.207,42.414 L267.000,42.414 L267.000,31.276 Z" class="cls-29" />
+    <path d="M282.162,31.276 L293.369,31.276 L293.369,42.414 L282.162,42.414 L282.162,31.276 Z" class="cls-29" />
+    <path d="M297.324,31.276 L308.531,31.276 L308.531,42.414 L297.324,42.414 L297.324,31.276 Z" class="cls-29" />
+    <path d="M317.760,31.276 L328.966,31.276 L328.966,42.414 L317.760,42.414 L317.760,31.276 Z" class="cls-29" />
+    <path d="M353.358,31.276 L364.564,31.276 L364.564,42.414 L353.358,42.414 L353.358,31.276 Z" class="cls-29" />
+    <path d="M373.793,31.276 L385.000,31.276 L385.000,42.414 L373.793,42.414 L373.793,31.276 Z" class="cls-29" />
+    <path d="M332.922,31.276 L344.128,31.276 L344.128,42.414 L332.922,42.414 L332.922,31.276 Z" class="cls-29" />
+    <path d="M312.486,28.000 L313.145,28.000 L313.145,47.000 L312.486,47.000 L312.486,28.000 Z" class="cls-29" />
+    <path d="M348.743,28.000 L349.402,28.000 L349.402,47.000 L348.743,47.000 L348.743,28.000 Z" class="cls-29" />
+    <path d="M368.520,28.000 L369.179,28.000 L369.179,47.000 L368.520,47.000 L368.520,28.000 Z" class="cls-30" />
+    <path d="M124.513,48.395 L125.324,47.996 L130.766,58.719 L129.955,59.119 L124.513,48.395 Z" class="cls-14" />
+    <path d="M129.978,58.679 L130.743,59.159 L124.394,68.989 L123.629,68.509 L129.978,58.679 Z" class="cls-14" />
+    <text transform="translate(210 63) scale(0.45 0.45)" class="cls-12"><tspan class="cls-13">build.gradle</tspan></text>
+    <path d="M180.401,48.395 L181.212,47.996 L186.655,58.719 L185.844,59.119 L180.401,48.395 Z" class="cls-14" />
+    <path d="M296.401,48.395 L297.212,47.996 L302.655,58.719 L301.844,59.119 L296.401,48.395 Z" class="cls-14" />
+    <path d="M185.867,58.679 L186.632,59.159 L180.282,68.989 L179.517,68.509 L185.867,58.679 Z" class="cls-14" />
+    <path d="M301.867,58.679 L302.632,59.159 L296.282,68.989 L295.517,68.509 L301.867,58.679 Z" class="cls-14" />
+    <text transform="translate(266 63) scale(0.45 0.45)" class="cls-12"><tspan class="cls-13">main</tspan></text>
+    <path d="M215.000,68.000 L216.000,68.000 L216.000,97.000 L215.000,97.000 L215.000,68.000 Z" class="cls-14" />
+    <text transform="translate(90 219) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">src</tspan></text>
+    <path d="M65.107,215.647 L60.712,218.279 L60.712,213.015 L65.107,215.647 Z" class="cls-14" />
+    <path d="M85.322,220.901 L73.017,220.901 L73.017,210.376 L78.290,210.376 L80.048,212.130 L85.322,212.130 L85.322,220.901 Z" class="cls-22" />
+    <path d="M74.775,213.885 L83.564,213.885 L83.564,219.147 L74.775,219.147 L74.775,213.885 Z" class="cls-6" />
+    <text transform="translate(90 203) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">libs</tspan></text>
+    <text transform="translate(90 235) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">.gitignore</tspan></text>
+    <text transform="translate(90 267) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">build.gradle</tspan></text>
+    <text transform="translate(90 281) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">proguard-rules.pro</tspan></text>
+    <text transform="translate(90 251) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">app.iml</tspan></text>
+    <path d="M85.322,205.113 L73.017,205.113 L73.017,194.588 L78.290,194.588 L80.048,196.342 L85.322,196.342 L85.322,205.113 Z" class="cls-22" />
+    <path d="M74.775,198.097 L83.564,198.097 L83.564,203.359 L74.775,203.359 L74.775,198.097 Z" class="cls-6" />
+    <text transform="translate(90 297) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">build</tspan></text>
+    <path d="M65.107,293.710 L60.712,296.342 L60.712,291.077 L65.107,293.710 Z" class="cls-14" />
+    <path d="M85.322,298.964 L73.017,298.964 L73.017,288.439 L78.290,288.439 L80.048,290.193 L85.322,290.193 L85.322,298.964 Z" class="cls-22" />
+    <path d="M74.775,291.947 L83.564,291.947 L83.564,297.210 L74.775,297.210 L74.775,291.947 Z" class="cls-6" />
+    <text transform="translate(90 313) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">gradle</tspan></text>
+    <path d="M65.107,309.498 L60.712,312.130 L60.712,306.865 L65.107,309.498 Z" class="cls-14" />
+    <path d="M85.322,314.752 L73.017,314.752 L73.017,304.227 L78.290,304.227 L80.048,305.981 L85.322,305.981 L85.322,314.752 Z" class="cls-22" />
+    <path d="M74.775,307.735 L83.564,307.735 L83.564,312.998 L74.775,312.998 L74.775,307.735 Z" class="cls-6" />
+    <text transform="translate(78 330) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">D7SMSLib</tspan></text>
+    <text transform="translate(78 344) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">.gitignore</tspan></text>
+    <text transform="translate(78 359) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">build.gradle</tspan></text>
+    <text transform="translate(78 373) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">gradle.properties</tspan></text>
+    <text transform="translate(78 389) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">gradlew</tspan></text>
+    <text transform="translate(78 403) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">gradlew.bat</tspan></text>
+    <text transform="translate(78 417) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">local.properties</tspan></text>
+    <text transform="translate(78 432) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">SampleApplication.iml</tspan></text>
+    <text transform="translate(78 445) scale(0.44 0.44)" class="cls-12"><tspan class="cls-13">settings.gradle</tspan></text>
+    <path d="M51.494,328.012 L48.987,323.994 L54.001,323.994 L51.494,328.012 Z" class="cls-14" />
+    <path d="M73.322,331.417 L61.017,331.417 L61.017,320.892 L66.290,320.892 L68.048,322.646 L73.322,322.646 L73.322,331.417 Z" class="cls-22" />
+    <path d="M62.775,324.400 L71.564,324.400 L71.564,329.663 L62.775,329.663 L62.775,324.400 Z" class="cls-6" />
+    <path d="M393.818,214.667 L393.818,212.933 L400.182,212.933 L400.182,214.667 L393.818,214.667 Z" class="cls-2" />
+    <rect x="392" y="317.438" width="9" height="8.937" class="cls-1" />
+    <path d="M392.358,317.844 L400.642,317.844 L400.642,325.156 L392.358,325.156 L392.358,317.844 Z" class="cls-6" />
+    <path d="M393.636,322.312 L393.636,320.687 L399.364,320.687 L399.364,322.312 L393.636,322.312 Z" class="cls-2" />
+    <path d="M392.000,305.250 L396.125,302.000 L396.738,302.000 L401.000,305.250 L401.000,314.187 L392.000,314.187 L392.000,305.250 Z" class="cls-31" />
+    <path d="M392.358,305.656 L400.642,305.656 L400.642,312.969 L392.358,312.969 L392.358,305.656 Z" class="cls-6" />
+    <path d="M393.636,310.125 L393.636,308.500 L399.364,308.500 L399.364,310.125 L393.636,310.125 Z" class="cls-2" />
+    <path d="M392.000,378.250 L396.125,375.000 L396.738,375.000 L401.000,378.250 L401.000,387.187 L392.000,387.187 L392.000,378.250 Z" class="cls-31" />
+    <path d="M392.358,378.656 L400.642,378.656 L400.642,385.969 L392.358,385.969 L392.358,378.656 Z" class="cls-6" />
+    <path d="M393.636,383.125 L393.636,381.500 L399.364,381.500 L399.364,383.125 L393.636,383.125 Z" class="cls-2" />
+    <path d="M392.000,511.250 L396.125,508.000 L396.738,508.000 L401.000,511.250 L401.000,520.187 L392.000,520.187 L392.000,511.250 Z" class="cls-31" />
+    <path d="M392.358,511.656 L400.642,511.656 L400.642,518.969 L392.358,518.969 L392.358,511.656 Z" class="cls-6" />
+    <path d="M393.636,516.125 L393.636,514.500 L399.364,514.500 L399.364,516.125 L393.636,516.125 Z" class="cls-2" />
+    <path d="M428.000,221.000 L429.000,221.000 L429.000,296.000 L428.000,296.000 L428.000,221.000 Z" class="cls-32" />
+    <path d="M428.000,328.000 L429.000,328.000 L429.000,393.000 L428.000,393.000 L428.000,328.000 Z" class="cls-32" />
+    <path d="M444.000,342.000 L445.000,342.000 L445.000,375.000 L444.000,375.000 L444.000,342.000 Z" class="cls-32" />
+    <path d="M428.000,421.000 L429.000,421.000 L429.000,454.000 L428.000,454.000 L428.000,421.000 Z" class="cls-32" />
+    <path d="M392.000,394.250 L396.125,391.000 L396.738,391.000 L401.000,394.250 L401.000,403.187 L392.000,403.187 L392.000,394.250 Z" class="cls-31" />
+    <path d="M392.358,394.656 L400.642,394.656 L400.642,401.969 L392.358,401.969 L392.358,394.656 Z" class="cls-6" />
+    <path d="M393.636,399.125 L393.636,397.500 L399.364,397.500 L399.364,399.125 L393.636,399.125 Z" class="cls-2" />
+    <path d="M392.000,411.250 L396.125,408.000 L396.738,408.000 L401.000,411.250 L401.000,420.187 L392.000,420.187 L392.000,411.250 Z" class="cls-31" />
+    <path d="M392.358,411.656 L400.642,411.656 L400.642,418.969 L392.358,418.969 L392.358,411.656 Z" class="cls-6" />
+    <path d="M393.636,416.125 L393.636,414.500 L399.364,414.500 L399.364,416.125 L393.636,416.125 Z" class="cls-2" />
+    <path d="M392.000,337.750 L396.125,341.000 L396.738,341.000 L401.000,337.750 L401.000,328.812 L392.000,328.812 L392.000,337.750 Z" class="cls-31" />
+    <path d="M392.358,330.031 L400.642,330.031 L400.642,337.344 L392.358,337.344 L392.358,330.031 Z" class="cls-6" />
+    <path d="M393.636,332.875 L393.636,334.500 L399.364,334.500 L399.364,332.875 L393.636,332.875 Z" class="cls-2" />
+    <path d="M392.000,446.750 L396.125,450.000 L396.738,450.000 L401.000,446.750 L401.000,437.812 L392.000,437.812 L392.000,446.750 Z" class="cls-31" />
+    <path d="M392.358,439.031 L400.642,439.031 L400.642,446.344 L392.358,446.344 L392.358,439.031 Z" class="cls-6" />
+    <path d="M393.636,441.875 L393.636,443.500 L399.364,443.500 L399.364,441.875 L393.636,441.875 Z" class="cls-2" />
+    <path d="M392.000,153.750 L396.125,157.000 L396.738,157.000 L401.000,153.750 L401.000,144.813 L392.000,144.813 L392.000,153.750 Z" class="cls-31" />
+    <path d="M392.358,146.031 L400.642,146.031 L400.642,153.344 L392.358,153.344 L392.358,146.031 Z" class="cls-6" />
+    <path d="M393.636,148.875 L393.636,150.500 L399.364,150.500 L399.364,148.875 L393.636,148.875 Z" class="cls-2" />
+    <path d="M480.000,69.000 L481.000,69.000 L481.000,98.000 L480.000,98.000 L480.000,69.000 Z" class="cls-14" />
+    <path d="M599.000,69.000 L600.000,69.000 L600.000,98.000 L599.000,98.000 L599.000,69.000 Z" class="cls-14" />
+    <path d="M669.000,69.000 L670.000,69.000 L670.000,98.000 L669.000,98.000 L669.000,69.000 Z" class="cls-14" />
+    <text transform="translate(510 87) scale(0.5 0.5)" class="cls-33"><tspan class="cls-34">MainActivity.java</tspan></text>
+    <text transform="translate(385 87) scale(0.5 0.5)" class="cls-33"><tspan class="cls-34">activity_main.xml</tspan></text>
+    <path d="M470.865,82.753 L469.123,84.500 L470.865,86.247 L470.865,86.247 C470.944,86.327 470.993,86.437 470.993,86.559 C470.993,86.802 470.797,87.000 470.554,87.000 C470.432,87.000 470.322,86.951 470.243,86.871 L470.243,86.871 L468.501,85.124 L466.760,86.871 L466.760,86.871 C466.680,86.951 466.570,87.000 466.449,87.000 C466.206,87.000 466.009,86.802 466.009,86.559 C466.009,86.437 466.058,86.327 466.138,86.247 L466.138,86.247 L467.879,84.500 L466.138,82.753 L466.138,82.753 C466.058,82.673 466.009,82.563 466.009,82.441 C466.009,82.198 466.206,82.000 466.449,82.000 C466.570,82.000 466.680,82.049 466.760,82.129 L466.760,82.129 L468.501,83.876 L470.243,82.129 L470.243,82.129 C470.322,82.049 470.432,82.000 470.554,82.000 C470.797,82.000 470.993,82.198 470.993,82.441 C470.993,82.563 470.944,82.673 470.865,82.753 L470.865,82.753 Z" class="cls-35" />
+    <path d="M591.865,82.753 L590.123,84.500 L591.865,86.247 L591.865,86.247 C591.944,86.327 591.993,86.437 591.993,86.559 C591.993,86.802 591.797,87.000 591.554,87.000 C591.432,87.000 591.322,86.951 591.243,86.871 L591.243,86.871 L589.501,85.124 L587.760,86.871 L587.760,86.871 C587.680,86.951 587.570,87.000 587.449,87.000 C587.206,87.000 587.009,86.802 587.009,86.559 C587.009,86.437 587.058,86.327 587.138,86.247 L587.138,86.247 L588.879,84.500 L587.138,82.753 L587.138,82.753 C587.058,82.673 587.009,82.563 587.009,82.441 C587.009,82.198 587.206,82.000 587.449,82.000 C587.570,82.000 587.680,82.049 587.760,82.129 L587.760,82.129 L589.501,83.876 L591.243,82.129 L591.243,82.129 C591.322,82.049 591.432,82.000 591.554,82.000 C591.797,82.000 591.993,82.198 591.993,82.441 C591.993,82.563 591.944,82.673 591.865,82.753 L591.865,82.753 Z" class="cls-35" />
+    <rect x="600" y="69" width="69" height="29" class="cls-36" />
+    <rect x="365" y="102" width="484" height="17" class="cls-37" />
+    <text transform="translate(624 87) scale(0.5 0.5)" class="cls-33"><tspan class="cls-34">app</tspan></text>
+    <path d="M660.865,82.753 L659.123,84.500 L660.865,86.247 L660.865,86.247 C660.944,86.327 660.993,86.437 660.993,86.559 C660.993,86.802 660.797,87.000 660.554,87.000 C660.432,87.000 660.322,86.951 660.243,86.871 L660.243,86.871 L658.501,85.124 L656.760,86.871 L656.760,86.871 C656.680,86.951 656.570,87.000 656.449,87.000 C656.206,87.000 656.009,86.802 656.009,86.559 C656.009,86.437 656.058,86.327 656.138,86.247 L656.138,86.247 L657.879,84.500 L656.138,82.753 L656.138,82.753 C656.058,82.673 656.009,82.563 656.009,82.441 C656.009,82.198 656.206,82.000 656.449,82.000 C656.570,82.000 656.680,82.049 656.760,82.129 L656.760,82.129 L658.501,83.876 L660.243,82.129 L660.243,82.129 C660.322,82.049 660.432,82.000 660.554,82.000 C660.797,82.000 660.993,82.198 660.993,82.441 C660.993,82.563 660.944,82.673 660.865,82.753 L660.865,82.753 Z" class="cls-35" />
+    <circle cx="495.5" cy="83.5" r="7.5" class="cls-38" />
+    <text transform="translate(491 87) scale(0.43 0.43)" class="cls-12"><tspan class="cls-39">C</tspan></text>
+    <path d="M365.000,119.000 L365.000,118.000 L849.000,118.000 L849.000,119.000 L365.000,119.000 Z" class="cls-14" />
+    <text transform="translate(369 112) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">Grade files have canged since last project sync. A project sync may be necesary for the IDE to work properly.</tspan></text>
+    <text transform="translate(803 112) scale(0.77 0.77)" class="cls-17"><tspan class="cls-19">Sync Now</tspan></text>
+    <rect y="-1" width="850" height="576" class="cls-40" />
+    <path d="M365.000,102.000 L365.000,101.000 L849.000,101.000 L849.000,102.000 L365.000,102.000 Z" class="cls-14" />
+    <rect x="365" y="102" width="484" height="17" class="cls-37" />
+    <path d="M365.000,119.000 L365.000,118.000 L849.000,118.000 L849.000,119.000 L365.000,119.000 Z" class="cls-14" />
+    <text transform="translate(369 112) scale(0.77 0.77)" class="cls-17"><tspan class="cls-18">Grade files have canged since last project sync. A project sync may be necesary for the IDE to work properly.</tspan></text>
+    <text transform="translate(795 112) scale(0.77 0.77)" class="cls-41"><tspan class="cls-42">Sync Now</tspan></text>
+    <path d="M794.000,116.000 L794.000,115.000 L843.000,115.000 L843.000,116.000 L794.000,116.000 Z" class="cls-43" />
+    <path d="M826.542,130.000 C826.884,128.954 828.000,125.312 828.000,123.970 L828.000,119.310 C828.000,118.682 827.467,118.171 826.812,118.171 C826.157,118.171 825.624,118.682 825.624,119.310 L825.624,121.297 C825.624,121.414 825.524,121.509 825.401,121.509 C825.277,121.509 825.177,121.414 825.177,121.297 L825.177,118.191 C825.177,117.563 824.644,117.053 823.989,117.053 C823.334,117.053 822.801,117.563 822.801,118.191 L822.801,120.405 C822.801,120.522 822.701,120.617 822.578,120.617 C822.454,120.617 822.354,120.522 822.354,120.405 L822.354,117.300 C822.354,116.672 821.821,116.162 821.166,116.162 C820.512,116.162 819.979,116.672 819.979,117.300 L819.979,119.515 C819.979,119.631 819.878,119.726 819.755,119.726 C819.632,119.726 819.532,119.631 819.532,119.515 L819.532,113.139 C819.532,112.511 818.999,112.000 818.344,112.000 C817.689,112.000 817.156,112.511 817.156,113.139 L817.156,123.012 C817.156,123.100 817.097,123.179 817.011,123.210 C816.924,123.241 816.824,123.216 816.764,123.151 L813.981,120.138 L813.949,120.106 C813.726,119.906 813.433,119.796 813.125,119.794 L813.117,119.794 C812.797,119.797 812.501,119.913 812.284,120.119 C812.010,120.379 811.795,120.875 812.330,121.765 C813.142,123.115 814.029,124.396 814.815,125.530 C815.400,126.374 815.952,127.170 816.364,127.842 C816.627,128.272 817.176,129.401 817.480,130.000 L826.542,130.000 L826.542,130.000 Z" class="cls-44" />
+</svg>

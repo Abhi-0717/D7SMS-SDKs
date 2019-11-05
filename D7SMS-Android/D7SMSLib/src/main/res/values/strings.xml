@@ -1,0 +1,8 @@
+<!--
+ - D7SMSLib
+ -
+-->
+<resources>
+    <string name="app_name">D7SMS</string>
+    <string name="preference_file_key">d7sms_prefs</string>
+</resources>

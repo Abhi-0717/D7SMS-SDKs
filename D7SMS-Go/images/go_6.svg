@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="526" height="497" viewBox="0 0 526 497">
+    <defs>
+        <style>
+            .cls-1, .cls-15, .cls-17, .cls-8 {
+                fill: #f0f0f0;
+            }
+
+            .cls-1 {
+                stroke: #ababab;
+            }
+
+            .cls-1, .cls-15, .cls-17, .cls-4, .cls-7, .cls-8, .cls-9 {
+                stroke-linejoin: round;
+                stroke-width: 1px;
+            }
+
+            .cls-2, .cls-9 {
+                fill: #dbdbdb;
+            }
+
+            .cls-16, .cls-2, .cls-5, .cls-6 {
+                fill-rule: evenodd;
+            }
+
+            .cls-3, .cls-4, .cls-7 {
+                fill: #fff;
+            }
+
+            .cls-4 {
+                stroke: #262626;
+            }
+
+            .cls-11, .cls-13, .cls-19, .cls-5 {
+                fill: #161616;
+            }
+
+            .cls-6 {
+                fill: #3a3935;
+            }
+
+            .cls-17, .cls-7 {
+                stroke: #007acc;
+            }
+
+            .cls-8 {
+                stroke: #ccc;
+            }
+
+            .cls-9 {
+                stroke: #b1b1b1;
+            }
+
+            .cls-10, .cls-11, .cls-14 {
+                font-size: 13.333px;
+            }
+
+            .cls-11, .cls-13, .cls-14 {
+                font-family: "Myriad Pro";
+            }
+
+            .cls-12, .cls-13 {
+                font-size: 14.667px;
+            }
+
+            .cls-14 {
+                fill: #8e8b8b;
+            }
+
+            .cls-15 {
+                stroke: #7f7f7f;
+            }
+
+            .cls-16 {
+                fill: #dcdcdc;
+            }
+
+            .cls-18, .cls-19 {
+                font-size: 32.869px;
+            }
+
+            .cls-19 {
+                font-family: "Open Sans";
+            }
+        </style>
+    </defs>
+    <rect x="2" y="2" width="523" height="494" class="cls-1" />
+    <path d="M524.000,443.000 L524.000,444.000 L3.000,444.000 L3.000,443.000 L524.000,443.000 Z" class="cls-2" />
+    <path d="M524.000,96.000 L524.000,97.000 L3.000,97.000 L3.000,96.000 L524.000,96.000 Z" class="cls-2" />
+    <rect x="4" y="3" width="520" height="93" class="cls-3" />
+    <rect x="20" y="158" width="15" height="15" class="cls-4" />
+    <path d="M32.770,163.413 L32.770,163.413 L26.746,169.758 L26.746,169.758 C26.604,169.907 26.407,170.000 26.190,170.000 C25.974,170.000 25.777,169.907 25.635,169.758 L25.635,169.758 L22.230,166.171 L22.230,166.171 C22.088,166.022 22.000,165.815 22.000,165.586 C22.000,165.129 22.352,164.759 22.786,164.759 C23.003,164.759 23.199,164.851 23.341,165.001 L23.341,165.001 L26.190,168.002 L31.659,162.242 L31.659,162.242 C31.801,162.093 31.997,162.000 32.214,162.000 C32.648,162.000 33.000,162.371 33.000,162.828 C33.000,163.056 32.912,163.263 32.770,163.413 Z" class="cls-5" />
+    <path d="M432.713,18.712 L428.089,18.712 L426.456,18.712 L421.832,18.712 C421.381,18.712 421.015,18.392 421.015,17.997 C421.015,17.603 421.381,17.283 421.832,17.283 L426.456,17.283 L428.089,17.283 L432.713,17.283 C433.164,17.283 433.530,17.603 433.530,17.997 C433.530,18.392 433.164,18.712 432.713,18.712 Z" class="cls-6" />
+    <path d="M505.762,14.502 L502.362,17.997 L505.762,21.493 L505.762,21.493 C505.918,21.653 506.014,21.873 506.014,22.117 C506.014,22.605 505.629,23.000 505.155,23.000 C504.918,23.000 504.703,22.901 504.548,22.741 L504.548,22.741 L501.147,19.246 L497.747,22.741 L497.747,22.741 C497.591,22.901 497.376,23.000 497.139,23.000 C496.665,23.000 496.280,22.605 496.280,22.117 C496.280,21.873 496.377,21.653 496.532,21.493 L496.532,21.493 L499.933,17.997 L496.532,14.502 L496.532,14.502 C496.377,14.342 496.280,14.121 496.280,13.878 C496.280,13.390 496.665,12.995 497.139,12.995 C497.376,12.995 497.591,13.094 497.747,13.253 L497.747,13.253 L501.147,16.749 L504.548,13.253 L504.548,13.253 C504.703,13.094 504.918,12.995 505.155,12.995 C505.629,12.995 506.014,13.390 506.014,13.878 C506.014,14.121 505.918,14.342 505.762,14.502 L505.762,14.502 Z" class="cls-6" />
+    <path d="M468.620,23.000 L459.799,23.000 C459.547,23.000 459.343,22.790 459.343,22.531 L459.343,13.464 C459.343,13.205 459.547,12.995 459.799,12.995 L468.620,12.995 C468.872,12.995 469.076,13.205 469.076,13.464 L469.076,22.531 C469.076,22.790 468.872,23.000 468.620,23.000 ZM468.164,13.933 L460.256,13.933 L460.256,22.062 L468.164,22.062 L468.164,13.933 Z" class="cls-6" />
+    <rect x="94" y="111" width="419" height="22" class="cls-7" />
+    <rect x="80" y="178" width="361" height="24" class="cls-8" />
+    <rect x="448" y="178" width="59" height="24" class="cls-9" />
+    <text x="32" y="22" class="cls-10"><tspan class="cls-11">New Go Project</tspan></text>
+    <text x="12" y="56" class="cls-12"><tspan class="cls-13">Create a new Go project.</tspan></text>
+    <text x="21" y="78" class="cls-10"><tspan class="cls-11">Create a new Go project from scratch, or from an existing project or location.</tspan></text>
+    <text x="14" y="127" class="cls-10"><tspan class="cls-11">Project name:</tspan></text>
+    <text x="24" y="149" class="cls-10"><tspan class="cls-11">Location:</tspan></text>
+    <text x="38" y="169" class="cls-10"><tspan class="cls-11">Use default location.</tspan></text>
+    <text x="88" y="194" class="cls-10"><tspan class="cls-14">C:\Users\Username\workspaceNeon\Test</tspan></text>
+    <text x="19" y="196" class="cls-10"><tspan class="cls-14">Directory:</tspan></text>
+    <text x="100" y="127" class="cls-10"><tspan class="cls-11">Test</tspan></text>
+    <text x="453" y="195" class="cls-10"><tspan class="cls-14">Browse...</tspan></text>
+    <rect x="420.313" y="457.781" width="80.718" height="23.688" class="cls-15" />
+    <path d="M511.000,209.000 L14.000,209.000 L13.000,209.000 L13.000,144.000 L14.000,144.000 L14.000,208.000 L511.000,208.000 L511.000,146.000 L79.000,146.000 L79.000,145.000 L512.000,145.000 L512.000,146.000 L512.000,209.000 L511.000,209.000 ZM21.000,143.000 L21.000,144.000 L14.000,144.000 L14.000,143.000 L21.000,143.000 Z" class="cls-16" />
+    <rect x="333.188" y="457.781" width="80.656" height="23.688" class="cls-17" />
+    <text transform="translate(357 474) scale(0.36 0.36)" class="cls-18"><tspan class="cls-19">Finish</tspan></text>
+    <text transform="translate(443 474) scale(0.36 0.36)" class="cls-18"><tspan class="cls-19">Cancel</tspan></text>
+</svg>

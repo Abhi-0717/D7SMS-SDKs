@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="800" height="525" viewBox="0 0 800 525">
+    <defs>
+        <style>
+            .cls-1 {
+            fill: #f5f6f7;
+            stroke: #dcdcdc;
+            stroke-width: 2px;
+            }
+
+            .cls-1, .cls-10, .cls-11, .cls-20, .cls-21, .cls-5 {
+            stroke-linejoin: round;
+            }
+
+            .cls-2, .cls-5 {
+            fill: #fff;
+            }
+
+            .cls-10, .cls-11, .cls-15, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-21, .cls-22, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+            fill-rule: evenodd;
+            }
+
+            .cls-14, .cls-16, .cls-3, .cls-4 {
+            font-size: 33.809px;
+            }
+
+            .cls-24, .cls-4 {
+            fill: #1f1f1f;
+            }
+
+            .cls-14, .cls-16, .cls-24, .cls-26, .cls-4 {
+            font-family: "Myriad Pro";
+            }
+
+            .cls-5 {
+            stroke: #e2e2e2;
+            }
+
+            .cls-10, .cls-11, .cls-20, .cls-21, .cls-5 {
+            stroke-width: 1px;
+            }
+
+            .cls-6 {
+            fill: #dbdbdb;
+            }
+
+            .cls-7 {
+            fill: #141414;
+            }
+
+            .cls-8 {
+            fill: #e2e2e2;
+            }
+
+            .cls-9 {
+            fill: #afaeae;
+            }
+
+            .cls-10, .cls-11 {
+            fill: #ddd;
+            }
+
+            .cls-10 {
+            stroke: #7f7f7f;
+            }
+
+            .cls-11 {
+            stroke: #008aff;
+            }
+
+            .cls-12, .cls-13 {
+            font-size: 32.869px;
+            }
+
+            .cls-13 {
+            fill: #404040;
+            font-family: "Open Sans";
+            }
+
+            .cls-14, .cls-15 {
+            fill: #cdcdd1;
+            }
+
+            .cls-16, .cls-26 {
+            fill: #42433f;
+            }
+
+            .cls-17 {
+            fill: #7f7f7f;
+            }
+
+            .cls-18 {
+            fill: #f3d16e;
+            }
+
+            .cls-19 {
+            fill: #ffeaa5;
+            }
+
+            .cls-20 {
+            fill: #e4edf9;
+            stroke: #d5e4f7;
+            }
+
+            .cls-21 {
+            fill: #f7f7f7;
+            stroke: #cfcfcf;
+            }
+
+            .cls-22 {
+            fill: #f0f0f0;
+            }
+
+            .cls-23, .cls-24 {
+            font-size: 28.174px;
+            }
+
+            .cls-25, .cls-26 {
+            font-size: 26.296px;
+            }
+        </style>
+    </defs>
+    <rect width="800" height="525" class="cls-1" />
+    <path d="M2.162,1.080 L797.838,1.080 L797.838,90.741 L2.162,90.741 L2.162,1.080 Z" class="cls-2" />
+    <text transform="translate(15 22) scale(0.58 0.58)" class="cls-3"><tspan class="cls-4">Select Folder</tspan></text>
+    <path d="M12.973,143.673 L784.865,143.673 L784.865,394.290 L12.973,394.290 L12.973,143.673 Z" class="cls-5" />
+    <path d="M194.595,405.093 L766.486,405.093 L766.486,437.500 L194.595,437.500 L194.595,405.093 Z" class="cls-5" />
+    <path d="M12.973,193.636 L168.649,193.636 L168.649,219.562 L12.973,219.562 L12.973,193.636 Z" class="cls-6" />
+    <path d="M194.595,47.531 L566.486,47.531 L566.486,79.938 L194.595,79.938 L194.595,47.531 Z" class="cls-5" />
+    <path d="M583.784,47.531 L788.108,47.531 L788.108,79.938 L583.784,79.938 L583.784,47.531 Z" class="cls-5" />
+    <path d="M771.271,19.025 L780.706,8.946 L781.546,9.732 L772.111,19.811 L771.271,19.025 Z" class="cls-7" />
+    <path d="M781.582,19.343 L772.081,9.198 L771.235,9.989 L780.736,20.134 L781.582,19.343 Z" class="cls-7" />
+    <path d="M2.162,90.741 L2.162,89.660 L797.838,89.660 L797.838,90.741 L2.162,90.741 Z" class="cls-8" />
+    <path d="M148.192,592.385 L151.330,595.261 L148.192,598.137 L147.302,597.321 L149.549,595.261 L147.302,593.201 L148.192,592.385 Z" class="cls-9" />
+    <path d="M617.297,454.784 L767.568,454.784 L767.568,491.512 L617.297,491.512 L617.297,454.784 Z" class="cls-10" />
+    <path d="M455.135,454.784 L605.405,454.784 L605.405,491.512 L455.135,491.512 L455.135,454.784 Z" class="cls-11" />
+    <text transform="translate(475 480) scale(0.56 0.56)" class="cls-12"><tspan class="cls-13">Select Folder</tspan></text>
+    <text transform="translate(665 480) scale(0.56 0.56)" class="cls-12"><tspan class="cls-13">Cancel</tspan></text>
+    <text transform="translate(249 71) scale(0.58 0.58)" class="cls-3"><tspan class="cls-4">This PC</tspan></text>
+    <text transform="translate(346 71) scale(0.58 0.58)" class="cls-3"><tspan class="cls-4">Desktop</tspan></text>
+    <text transform="translate(592 71) scale(0.58 0.58)" class="cls-3"><tspan class="cls-14">Search</tspan></text>
+    <text transform="translate(31 119) scale(0.58 0.58)" class="cls-3"><tspan class="cls-4">Organize</tspan></text>
+    <text transform="translate(171 119) scale(0.58 0.58)" class="cls-3"><tspan class="cls-4">New folder</tspan></text>
+    <path d="M115.681,118.662 L111.278,111.043 L120.083,111.043 L115.681,118.662 Z" class="cls-15" />
+    <text transform="translate(206 427) scale(0.58 0.58)" class="cls-3"><tspan class="cls-16">D7SMS-Angular</tspan></text>
+    <text transform="translate(130 427) scale(0.58 0.58)" class="cls-3"><tspan class="cls-16">Folder:</tspan></text>
+    <path d="M326.835,59.406 L331.905,64.274 L326.835,69.141 L325.396,67.760 L329.028,64.274 L325.396,60.787 L326.835,59.406 Z" class="cls-17" />
+    <path d="M231.699,59.406 L236.770,64.274 L231.699,69.141 L230.261,67.760 L233.893,64.274 L230.261,60.787 L231.699,59.406 Z" class="cls-17" />
+    <path d="M555.683,63.002 L550.812,68.068 L545.941,63.002 L547.323,61.565 L550.812,65.194 L554.301,61.565 L555.683,63.002 Z" class="cls-17" />
+    <path d="M24.132,155.548 L29.202,160.415 L24.132,165.283 L22.694,163.902 L26.325,160.415 L22.694,156.929 L24.132,155.548 Z" class="cls-15" />
+    <path d="M34.943,204.159 L40.013,209.027 L34.943,213.894 L33.504,212.513 L37.136,209.027 L33.504,205.540 L34.943,204.159 Z" class="cls-17" />
+    <path d="M34.943,232.246 L40.013,237.113 L34.943,241.981 L33.504,240.600 L37.136,237.113 L33.504,233.626 L34.943,232.246 Z" class="cls-17" />
+    <path d="M34.943,259.252 L40.013,264.119 L34.943,268.987 L33.504,267.606 L37.136,264.119 L33.504,260.633 L34.943,259.252 Z" class="cls-17" />
+    <path d="M34.943,285.178 L40.013,290.045 L34.943,294.913 L33.504,293.532 L37.136,290.045 L33.504,286.558 L34.943,285.178 Z" class="cls-17" />
+    <path d="M34.943,313.264 L40.013,318.132 L34.943,322.999 L33.504,321.618 L37.136,318.132 L33.504,314.645 L34.943,313.264 Z" class="cls-17" />
+    <path d="M34.943,340.270 L40.013,345.138 L34.943,350.005 L33.504,348.624 L37.136,345.138 L33.504,341.651 L34.943,340.270 Z" class="cls-17" />
+    <path d="M34.943,364.036 L40.013,368.903 L34.943,373.771 L33.504,372.390 L37.136,368.903 L33.504,365.416 L34.943,364.036 Z" class="cls-17" />
+    <path d="M31.359,182.910 L26.488,187.976 L21.616,182.910 L22.998,181.472 L26.488,185.101 L29.977,181.472 L31.359,182.910 Z" class="cls-17" />
+    <path d="M141.629,61.922 L136.758,66.988 L131.887,61.922 L133.269,60.485 L136.758,64.114 L140.247,60.485 L141.629,61.922 Z" class="cls-17" />
+    <path d="M179.468,59.908 L174.055,53.997 L168.643,59.908 L170.178,61.585 L174.055,57.351 L177.932,61.585 L179.468,59.908 Z" class="cls-17" />
+    <path d="M172.973,56.173 L175.135,56.173 L175.135,74.537 L172.973,74.537 L172.973,56.173 Z" class="cls-17" />
+    <path d="M24.279,59.405 L18.363,64.813 L24.279,70.222 L25.957,68.687 L21.720,64.813 L25.957,60.939 L24.279,59.405 Z" class="cls-17" />
+    <path d="M20.541,65.895 L20.541,63.735 L38.919,63.735 L38.919,65.895 L20.541,65.895 Z" class="cls-17" />
+    <path d="M87.073,71.305 L92.988,65.896 L87.073,60.488 L85.395,62.022 L89.632,65.896 L85.395,69.770 L87.073,71.305 Z" class="cls-15" />
+    <path d="M90.811,64.815 L90.811,66.975 L72.432,66.975 L72.432,64.815 L90.811,64.815 Z" class="cls-15" />
+    <path d="M202.162,56.173 L202.162,71.624 L213.564,71.624 C213.564,71.624 214.054,71.659 214.054,71.117 C214.054,70.576 214.054,66.558 214.054,66.558 L213.073,65.545 L213.073,56.806 C213.073,56.806 213.065,56.173 212.460,56.173 L202.162,56.173 Z" class="cls-18" />
+    <path d="M202.162,56.173 L202.162,71.624 L205.840,74.537 L205.840,69.724 L206.208,69.091 L206.208,59.466 L202.162,56.173 Z" class="cls-19" />
+    <path d="M205.405,156.636 L323.243,156.636 L323.243,307.870 L205.405,307.870 L205.405,156.636 Z" class="cls-20" />
+    <path d="M220.540,168.519 L220.540,270.315 L296.205,270.315 C296.205,270.315 299.459,270.544 299.459,266.977 C299.459,263.411 299.459,236.939 299.459,236.939 L292.950,230.264 L292.950,172.690 C292.950,172.690 292.895,168.519 288.882,168.519 L220.540,168.519 Z" class="cls-18" />
+    <path d="M302.703,186.883 L302.703,275.463 L236.757,264.660 L236.757,176.080 L302.703,186.883 Z" class="cls-21" />
+    <image xlink:href="data:img/png;base64,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" x="224" y="199" width="78" height="65" />
+    <path d="M281.081,197.685 L281.081,286.265 L229.189,266.821 L229.189,178.241 L281.081,197.685 Z" class="cls-21" />
+    <path d="M220.540,168.519 L220.540,270.315 L244.948,289.506 L244.948,257.799 L247.389,253.627 L247.389,190.213 L220.540,168.519 Z" class="cls-19" />
+    <path d="M168.649,143.673 L194.595,143.673 L194.595,394.290 L168.649,394.290 L168.649,143.673 Z" class="cls-22" />
+    <path d="M168.649,172.840 L194.595,172.840 L194.595,261.420 L168.649,261.420 L168.649,172.840 Z" class="cls-6" />
+    <path d="M177.290,163.850 L182.161,158.783 L187.032,163.850 L185.650,165.287 L182.161,161.658 L178.672,165.287 L177.290,163.850 Z" class="cls-17" />
+    <path d="M177.290,379.515 L182.161,384.581 L187.032,379.515 L185.650,378.077 L182.161,381.706 L178.672,378.077 L177.290,379.515 Z" class="cls-17" />
+    <text transform="translate(70 321) scale(0.58 0.58)" class="cls-23"><tspan class="cls-24">Local Disk</tspan></text>
+    <text transform="translate(70 348) scale(0.58 0.58)" class="cls-23"><tspan class="cls-24">Local Disk (D:)</tspan></text>
+    <text transform="translate(70 375) scale(0.58 0.58)" class="cls-23"><tspan class="cls-24">Local Disk (E:)</tspan></text>
+    <path d="M47.568,199.846 L47.568,215.297 L58.969,215.297 C58.969,215.297 59.459,215.332 59.459,214.790 C59.459,214.249 59.459,210.231 59.459,210.231 L58.479,209.218 L58.479,200.479 C58.479,200.479 58.470,199.846 57.866,199.846 L47.568,199.846 Z" class="cls-18" />
+    <path d="M47.568,199.846 L47.568,215.297 L51.245,218.210 L51.245,213.397 L51.613,212.764 L51.613,203.139 L47.568,199.846 Z" class="cls-19" />
+    <path d="M47.568,227.932 L47.568,243.383 L58.969,243.383 C58.969,243.383 59.459,243.418 59.459,242.877 C59.459,242.335 59.459,238.317 59.459,238.317 L58.479,237.304 L58.479,228.565 C58.479,228.565 58.470,227.932 57.866,227.932 L47.568,227.932 Z" class="cls-18" />
+    <path d="M47.568,227.932 L47.568,243.383 L51.245,246.296 L51.245,241.484 L51.613,240.850 L51.613,231.225 L47.568,227.932 Z" class="cls-19" />
+    <path d="M47.568,254.938 L47.568,270.390 L58.969,270.390 C58.969,270.390 59.459,270.424 59.459,269.883 C59.459,269.342 59.459,265.324 59.459,265.324 L58.479,264.310 L58.479,255.572 C58.479,255.572 58.470,254.938 57.866,254.938 L47.568,254.938 Z" class="cls-18" />
+    <path d="M47.568,254.938 L47.568,270.390 L51.245,273.302 L51.245,268.490 L51.613,267.857 L51.613,258.231 L47.568,254.938 Z" class="cls-19" />
+    <path d="M47.568,281.944 L47.568,297.396 L58.969,297.396 C58.969,297.396 59.459,297.430 59.459,296.889 C59.459,296.348 59.459,292.330 59.459,292.330 L58.479,291.316 L58.479,282.578 C58.479,282.578 58.470,281.944 57.866,281.944 L47.568,281.944 Z" class="cls-18" />
+    <path d="M47.568,281.944 L47.568,297.396 L51.245,300.309 L51.245,295.496 L51.613,294.863 L51.613,285.237 L47.568,281.944 Z" class="cls-19" />
+    <path d="M47.568,308.951 L47.568,324.402 L58.969,324.402 C58.969,324.402 59.459,324.437 59.459,323.895 C59.459,323.354 59.459,319.336 59.459,319.336 L58.479,318.323 L58.479,309.584 C58.479,309.584 58.470,308.951 57.866,308.951 L47.568,308.951 Z" class="cls-18" />
+    <path d="M47.568,308.951 L47.568,324.402 L51.245,327.315 L51.245,322.502 L51.613,321.869 L51.613,312.243 L47.568,308.951 Z" class="cls-19" />
+    <path d="M47.568,335.957 L47.568,351.408 L58.969,351.408 C58.969,351.408 59.459,351.443 59.459,350.901 C59.459,350.360 59.459,346.342 59.459,346.342 L58.479,345.329 L58.479,336.590 C58.479,336.590 58.470,335.957 57.866,335.957 L47.568,335.957 Z" class="cls-18" />
+    <path d="M47.568,335.957 L47.568,351.408 L51.245,354.321 L51.245,349.508 L51.613,348.875 L51.613,339.250 L47.568,335.957 Z" class="cls-19" />
+    <path d="M47.568,362.963 L47.568,378.414 L58.969,378.414 C58.969,378.414 59.459,378.449 59.459,377.908 C59.459,377.366 59.459,373.348 59.459,373.348 L58.479,372.335 L58.479,363.596 C58.479,363.596 58.470,362.963 57.866,362.963 L47.568,362.963 Z" class="cls-18" />
+    <path d="M47.568,362.963 L47.568,378.414 L51.245,381.327 L51.245,376.514 L51.613,375.881 L51.613,366.256 L47.568,362.963 Z" class="cls-19" />
+    <text transform="translate(71 213) scale(0.58 0.58)" class="cls-23"><tspan class="cls-24">Desktop</tspan></text>
+    <text transform="translate(45 188) scale(0.58 0.58)" class="cls-23"><tspan class="cls-24">This PC</tspan></text>
+    <text transform="translate(45 167) scale(0.58 0.58)" class="cls-23"><tspan class="cls-24">OneDrive</tspan></text>
+    <text transform="translate(71 240) scale(0.58 0.58)" class="cls-23"><tspan class="cls-24">Documents</tspan></text>
+    <text transform="translate(71 266) scale(0.58 0.58)" class="cls-23"><tspan class="cls-24">Downloads</tspan></text>
+    <text transform="translate(71 293) scale(0.58 0.58)" class="cls-23"><tspan class="cls-24">Music</tspan></text>
+    <text transform="translate(232 303) scale(0.58 0.58)" class="cls-25"><tspan class="cls-26">D7SMS-Angu...</tspan></text>
+</svg>

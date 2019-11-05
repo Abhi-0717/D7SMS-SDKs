@@ -1,0 +1,49 @@
+{
+  "name": "d7smslib",
+  "version": "1.0.0",
+  "description": "D7 SMS allows you to reach your customers via SMS over D7's own connectivity to global mobile networks. D7 provides reliable and cost-effective SMS services to businesses across all industries and aims to connect all countries and territories via direct connections.",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  },
+  "scripts": {
+    "lint": "eslint lib",
+    "test": "mocha --recursive"
+  },
+  "author": "Emanuel",
+  "bugs": {
+    "email": "int@d7networks.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3",
+    "mocha": "^5.2.0",
+    "chai": "^3.5.0"
+  },
+  "dependencies": {
+    "moment": "^2.17.1",
+    "request": "^2.55.0"
+  },
+  "eslintConfig": {
+    "extends": "airbnb",
+    "env": {
+      "commonjs": true,
+      "node": true,
+      "mocha": true
+    },
+    "rules": {
+      "indent": [
+        "error",
+        4
+      ],
+      "no-underscore-dangle": 0,
+      "strict": 0,
+      "prefer-rest-params": 0
+    }
+  }
+}

@@ -1,0 +1,263 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="800" height="500" viewBox="0 0 800 500">
+    <defs>
+        <style>
+            .cls-1, .cls-12, .cls-23, .cls-25, .cls-26, .cls-27, .cls-28, .cls-35, .cls-40, .cls-8 {
+                fill: #fff;
+            }
+
+            .cls-2, .cls-34 {
+                fill: #d3d3d3;
+            }
+
+            .cls-10, .cls-11, .cls-12, .cls-2, .cls-3, .cls-38, .cls-4, .cls-40, .cls-5, .cls-6, .cls-8, .cls-9 {
+                fill-rule: evenodd;
+            }
+
+            .cls-3 {
+                fill: #9b9b9b;
+            }
+
+            .cls-4 {
+                fill: #d7d7d7;
+                filter: url(#drop-shadow-1);
+            }
+
+            .cls-14, .cls-16, .cls-30, .cls-33, .cls-37, .cls-39, .cls-5 {
+                fill: #202020;
+            }
+
+            .cls-6 {
+                fill: #fc615d;
+                stroke: #e13e3a;
+            }
+
+            .cls-22, .cls-23, .cls-25, .cls-26, .cls-27, .cls-28, .cls-40, .cls-6, .cls-7, .cls-8, .cls-9 {
+                stroke-linejoin: round;
+                stroke-width: 1px;
+            }
+
+            .cls-7 {
+                fill: #d1d1d1;
+                stroke: #b5b4b4;
+            }
+
+            .cls-25, .cls-8 {
+                stroke: #bfbfbf;
+            }
+
+            .cls-9 {
+                fill: #34c84a;
+                stroke: #22a936;
+            }
+
+            .cls-10 {
+                fill: #535353;
+            }
+
+            .cls-11 {
+                fill: #9a9a9a;
+            }
+
+            .cls-13, .cls-14 {
+                font-size: 36px;
+            }
+
+            .cls-14, .cls-16, .cls-18, .cls-20, .cls-21, .cls-33, .cls-34, .cls-35, .cls-37 {
+                text-anchor: middle;
+            }
+
+            .cls-14, .cls-16, .cls-18, .cls-20, .cls-21, .cls-30, .cls-31, .cls-33, .cls-34, .cls-35, .cls-37, .cls-39 {
+                font-family: "Arial";
+            }
+
+            .cls-15, .cls-16, .cls-21 {
+                font-size: 31.805px;
+            }
+
+            .cls-17, .cls-18 {
+                font-size: 28.8px;
+            }
+
+            .cls-18, .cls-20 {
+                fill: #434343;
+            }
+
+            .cls-19, .cls-20 {
+                font-size: 19.2px;
+            }
+
+            .cls-21 {
+                fill: #949494;
+            }
+
+            .cls-22 {
+                fill: #efefef;
+                stroke: #979797;
+                filter: url(#drop-shadow-2);
+            }
+
+            .cls-23 {
+                stroke: #dcdcdc;
+            }
+
+            .cls-24, .cls-38 {
+                fill: #4388da;
+            }
+
+            .cls-26 {
+                stroke: #d5d5d5;
+            }
+
+            .cls-27 {
+                stroke: #e2e2e2;
+            }
+
+            .cls-28 {
+                stroke: #6db3ff;
+                filter: url(#gradient-overlay-1);
+            }
+
+            .cls-29, .cls-30, .cls-31, .cls-39 {
+                font-size: 29.094px;
+            }
+
+            .cls-30 {
+                text-anchor: end;
+            }
+
+            .cls-31 {
+                fill: #919191;
+            }
+
+            .cls-32, .cls-33, .cls-34, .cls-35 {
+                font-size: 29.079px;
+            }
+
+            .cls-36, .cls-37 {
+                font-size: 36.349px;
+            }
+
+            .cls-40 {
+                stroke: #146ad1;
+            }
+        </style>
+
+        <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+            <feOffset dy="1" in="SourceAlpha" />
+            <feGaussianBlur stdDeviation="1.414" result="dropBlur" />
+            <feFlood flood-opacity="0.2" />
+            <feComposite operator="in" in2="dropBlur" result="dropShadowComp" />
+            <feComposite in="SourceGraphic" result="shadowed" />
+        </filter>
+        <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
+            <feOffset dy="2" in="SourceAlpha" />
+            <feGaussianBlur stdDeviation="2" result="dropBlur" />
+            <feFlood flood-opacity="0.2" />
+            <feComposite operator="in" in2="dropBlur" result="dropShadowComp" />
+            <feComposite in="SourceGraphic" result="shadowed" />
+        </filter>
+        <filter id="gradient-overlay-1" filterUnits="userSpaceOnUse">
+            <feImage x="556" y="354" width="55" height="13" preserveAspectRatio="none" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNTUiIGhlaWdodD0iMTMiPjxsaW5lYXJHcmFkaWVudCBpZD0iZ3JhZCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIyNy41IiB5MT0iMTMiIHgyPSIyNy41Ij4KICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMxZjg1ZmIiLz4KICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM4M2MyZmYiLz4KPC9saW5lYXJHcmFkaWVudD4KPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIvPjwvc3ZnPg==" />
+            <feComposite operator="in" in2="SourceGraphic" />
+            <feBlend in2="SourceGraphic" result="gradientFill" />
+        </filter>
+    </defs>
+    <rect width="800" height="500" class="cls-1" />
+    <path d="M0.000,13.437 L0.000,-0.000 L800.000,-0.000 L800.000,13.437 L0.000,13.437 Z" class="cls-2" />
+    <path d="M-0.000,37.180 L161.883,37.180 L161.883,500.000 L-0.000,500.000 L-0.000,37.180 Z" class="cls-2" />
+    <path d="M161.875,39.312 L162.500,39.312 L162.500,500.000 L161.875,500.000 L161.875,39.312 Z" class="cls-3" />
+    <path d="M637.500,38.312 L638.125,38.312 L638.125,500.000 L637.500,500.000 L637.500,38.312 Z" class="cls-3" />
+    <path d="M638.133,37.180 L800.000,37.180 L800.000,337.503 L638.133,337.503 L638.133,37.180 Z" class="cls-2" />
+    <rect x="638.125" y="337.5" width="161.875" height="162.5" class="cls-1" />
+    <path d="M0.000,38.125 L0.000,13.750 L800.000,13.750 L800.000,38.125 L0.000,38.125 Z" class="cls-4" />
+    <path d="M19.496,6.564 C19.510,8.077 20.921,8.580 20.938,8.587 C20.925,8.621 20.712,9.304 20.193,10.010 C19.745,10.619 19.281,11.225 18.549,11.238 C17.829,11.250 17.598,10.841 16.775,10.841 C15.952,10.841 15.695,11.225 15.014,11.250 C14.308,11.276 13.770,10.593 13.318,9.985 C12.395,8.743 11.690,6.476 12.637,4.945 C13.107,4.185 13.948,3.704 14.860,3.691 C15.554,3.679 16.210,4.126 16.633,4.126 C17.058,4.126 17.854,3.589 18.691,3.668 C19.041,3.681 20.024,3.799 20.656,4.659 C20.605,4.689 19.482,5.297 19.496,6.564 ZM16.548,3.554 C16.467,2.979 16.771,2.381 17.119,2.006 C17.507,1.583 18.161,1.269 18.702,1.249 C18.771,1.835 18.517,2.423 18.142,2.846 C17.767,3.268 17.151,3.598 16.548,3.554 Z" class="cls-5" />
+    <path d="M11.883,21.872 C13.954,21.872 15.633,23.550 15.633,25.620 C15.633,27.690 13.954,29.368 11.883,29.368 C9.812,29.368 8.133,27.690 8.133,25.620 C8.133,23.550 9.812,21.872 11.883,21.872 Z" class="cls-6" />
+    <circle cx="24.375" cy="25.625" r="3.75" class="cls-7" />
+    <path d="M270.758,18.440 L526.692,18.440 C528.418,18.440 529.817,19.839 529.817,21.565 L529.817,29.691 C529.817,31.417 528.418,32.816 526.692,32.816 L270.758,32.816 C269.032,32.816 267.633,31.417 267.633,29.691 L267.633,21.565 C267.633,19.839 269.032,18.440 270.758,18.440 Z" class="cls-8" />
+    <path d="M741.558,18.440 L790.625,18.440 C792.351,18.440 793.750,19.839 793.750,21.565 L793.750,29.691 C793.750,31.417 792.351,32.816 790.625,32.816 L741.558,32.816 C739.832,32.816 738.433,31.417 738.433,29.691 L738.433,21.565 C738.433,19.839 739.832,18.440 741.558,18.440 Z" class="cls-8" />
+    <path d="M681.258,18.440 L730.308,18.440 C732.034,18.440 733.433,19.839 733.433,21.565 L733.433,29.691 C733.433,31.417 732.034,32.816 730.308,32.816 L681.258,32.816 C679.532,32.816 678.133,31.417 678.133,29.691 L678.133,21.565 C678.133,19.839 679.532,18.440 681.258,18.440 Z" class="cls-8" />
+    <path d="M36.883,21.872 C38.954,21.872 40.633,23.550 40.633,25.620 C40.633,27.690 38.954,29.368 36.883,29.368 C34.812,29.368 33.133,27.690 33.133,25.620 C33.133,23.550 34.812,21.872 36.883,21.872 Z" class="cls-9" />
+    <path d="M784.219,7.344 L777.969,7.344 L777.969,7.344 C777.710,7.344 777.500,7.134 777.500,6.875 C777.500,6.616 777.710,6.406 777.969,6.406 C777.969,6.406 777.969,6.406 777.969,6.406 L784.219,6.406 C784.478,6.406 784.687,6.616 784.687,6.875 C784.687,7.134 784.478,7.344 784.219,7.344 ZM785.781,4.844 L777.969,4.844 L777.969,4.844 C777.710,4.844 777.500,4.634 777.500,4.375 C777.500,4.116 777.710,3.906 777.969,3.906 C777.969,3.906 777.969,3.906 777.969,3.906 L785.781,3.906 C786.040,3.906 786.250,4.116 786.250,4.375 C786.250,4.634 786.040,4.844 785.781,4.844 ZM776.094,9.844 L776.094,9.844 L775.156,9.844 C774.897,9.844 774.687,9.634 774.687,9.375 C774.687,9.116 774.897,8.906 775.156,8.906 L776.094,8.906 L776.094,8.906 C776.353,8.906 776.562,9.116 776.562,9.375 C776.562,9.634 776.353,9.844 776.094,9.844 ZM776.094,7.344 L776.094,7.344 L775.156,7.344 C774.897,7.344 774.687,7.134 774.687,6.875 C774.687,6.616 774.897,6.406 775.156,6.406 L776.093,6.406 C776.094,6.406 776.094,6.406 776.094,6.406 C776.353,6.406 776.562,6.616 776.562,6.875 C776.562,7.134 776.353,7.344 776.094,7.344 ZM776.094,4.844 L776.094,4.844 L775.156,4.844 C774.897,4.844 774.687,4.634 774.687,4.375 C774.687,4.116 774.897,3.906 775.156,3.906 L776.094,3.906 C776.094,3.906 776.094,3.906 776.094,3.906 C776.353,3.906 776.562,4.116 776.562,4.375 C776.562,4.634 776.353,4.844 776.094,4.844 ZM777.969,9.844 C777.710,9.844 777.500,9.634 777.500,9.375 C777.500,9.116 777.710,8.906 777.969,8.906 C777.969,8.906 777.969,8.906 777.969,8.906 L785.781,8.906 C786.040,8.906 786.250,9.116 786.250,9.375 C786.250,9.634 786.040,9.844 785.781,9.844 L777.969,9.844 L777.969,9.844 Z" class="cls-5" />
+    <path d="M765.038,10.587 C765.208,10.757 765.312,10.991 765.312,11.250 C765.312,11.768 764.893,12.188 764.375,12.188 C764.116,12.188 763.882,12.083 763.712,11.913 L763.712,11.913 L760.964,9.165 C760.406,9.495 759.758,9.688 759.062,9.688 C756.991,9.688 755.312,8.009 755.312,5.938 C755.312,3.866 756.991,2.188 759.062,2.188 C761.134,2.188 762.812,3.866 762.812,5.938 C762.812,6.633 762.620,7.281 762.290,7.840 L765.038,10.587 L765.038,10.587 ZM759.062,3.125 C757.509,3.125 756.250,4.384 756.250,5.938 C756.250,7.491 757.509,8.750 759.062,8.750 C760.616,8.750 761.875,7.491 761.875,5.938 C761.875,4.384 760.616,3.125 759.062,3.125 Z" class="cls-5" />
+    <path d="M0.000,13.750 L0.000,13.437 L800.000,13.437 L800.000,13.750 L0.000,13.750 Z" class="cls-10" />
+    <path d="M0.000,0.312 L0.000,-0.000 L800.000,-0.000 L800.000,0.312 L0.000,0.312 Z" class="cls-3" />
+    <path d="M0.000,38.437 L0.000,38.125 L800.000,38.125 L800.000,38.437 L0.000,38.437 Z" class="cls-11" />
+    <path d="M0.000,14.062 L0.000,13.750 L800.000,13.750 L800.000,14.062 L0.000,14.062 Z" class="cls-12" />
+    <text transform="translate(47 10) scale(0.28)" class="cls-13"><tspan x="0" class="cls-14">Xcode</tspan></text>
+    <text transform="translate(80 10) scale(0.28)" class="cls-15"><tspan x="0" class="cls-16">File</tspan></text>
+    <text transform="translate(106 10) scale(0.28)" class="cls-15"><tspan x="0" class="cls-16">Edit</tspan></text>
+    <text transform="translate(135 10) scale(0.28)" class="cls-15"><tspan x="0" class="cls-16">View</tspan></text>
+    <text transform="translate(165 10) scale(0.28)" class="cls-15"><tspan x="0" class="cls-16">Find</tspan></text>
+    <text transform="translate(203 10) scale(0.28)" class="cls-15"><tspan x="0" class="cls-16">Navigate</tspan></text>
+    <text transform="translate(244 10) scale(0.28)" class="cls-15"><tspan x="0" class="cls-16">Editor</tspan></text>
+    <text transform="translate(325 10) scale(0.28)" class="cls-15"><tspan x="0" class="cls-16">Debug</tspan></text>
+    <text transform="translate(284 10) scale(0.28)" class="cls-15"><tspan x="0" class="cls-16">Product</tspan></text>
+    <text transform="translate(380 10) scale(0.28)" class="cls-15"><tspan x="0" class="cls-16">Source Control</tspan></text>
+    <text transform="translate(438 10) scale(0.28)" class="cls-15"><tspan x="0" class="cls-16">Window</tspan></text>
+    <text transform="translate(477 10) scale(0.27 0.27)" class="cls-15"><tspan x="0" class="cls-16">Help</tspan></text>
+    <path d="M51.875,18.440 L68.758,18.440 C70.484,18.440 71.883,19.839 71.883,21.565 L71.883,29.691 C71.883,31.417 70.484,32.816 68.758,32.816 L51.875,32.816 C50.149,32.816 48.750,31.417 48.750,29.691 L48.750,21.565 C48.750,19.839 50.149,18.440 51.875,18.440 Z" class="cls-8" />
+    <path d="M80.008,18.440 L96.875,18.440 C98.601,18.440 100.000,19.839 100.000,21.565 L100.000,29.691 C100.000,31.417 98.601,32.816 96.875,32.816 L80.008,32.816 C78.282,32.816 76.883,31.417 76.883,29.691 L76.883,21.565 C76.883,19.839 78.282,18.440 80.008,18.440 Z" class="cls-8" />
+    <path d="M63.429,25.781 L57.186,29.374 L57.186,22.189 L63.429,25.781 Z" class="cls-11" />
+    <path d="M85.083,22.188 L91.883,22.188 L91.883,29.101 L85.083,29.101 L85.083,22.188 Z" class="cls-11" />
+    <text transform="translate(713 375) scale(0.31)" class="cls-17"><tspan x="0" class="cls-18">Cocoa Touch Class</tspan></text>
+    <text transform="translate(690 385) scale(0.31)" class="cls-19"><tspan x="0" class="cls-20">Touch class</tspan></text>
+    <text transform="translate(712 418) scale(0.31)" class="cls-17"><tspan x="0" class="cls-18">UI Test Case Class</tspan></text>
+    <text transform="translate(707 428) scale(0.31)" class="cls-19"><tspan x="0" class="cls-20">implementing a unit test</tspan></text>
+    <text transform="translate(716 462) scale(0.31)" class="cls-17"><tspan x="0" class="cls-18">Unit Test Case Class</tspan></text>
+    <text transform="translate(707 472) scale(0.31)" class="cls-19"><tspan x="0" class="cls-20">implementing a unit test</tspan></text>
+    <text transform="translate(719 185) scale(0.31)" class="cls-15"><tspan x="0" class="cls-21">No Selection</tspan></text>
+    <path d="M637.812,337.500 L637.812,336.875 L800.000,336.875 L800.000,337.500 L637.812,337.500 Z" class="cls-3" />
+    <path d="M637.812,356.562 L637.812,355.937 L800.000,355.937 L800.000,356.562 L637.812,356.562 Z" class="cls-3" />
+    <path d="M637.812,486.562 L637.812,485.937 L800.000,485.937 L800.000,486.562 L637.812,486.562 Z" class="cls-3" />
+    <path d="M637.812,397.812 L637.812,397.187 L800.000,397.187 L800.000,397.812 L637.812,397.812 Z" class="cls-3" />
+    <path d="M637.812,441.875 L637.812,441.250 L800.000,441.250 L800.000,441.875 L637.812,441.875 Z" class="cls-3" />
+    <path d="M-0.000,-0.000 L0.625,-0.000 L0.625,500.000 L-0.000,500.000 L-0.000,-0.000 Z" class="cls-3" />
+    <path d="M799.375,-0.000 L800.000,-0.000 L800.000,500.000 L799.375,500.000 L799.375,-0.000 Z" class="cls-3" />
+    <path d="M799.687,499.375 L799.687,500.000 L-0.000,500.000 L-0.000,499.375 L799.687,499.375 Z" class="cls-3" />
+    <g style="fill: #efefef; filter: url(#drop-shadow-2)">
+        <rect x="173" y="40" width="453" height="337" id="rect-1" style="stroke: inherit; filter: none; fill: inherit" class="cls-22" />
+    </g>
+    <use xlink:href="#rect-1" style="stroke: #979797; filter: none; fill: none" />
+    <rect x="189" y="63" width="422" height="278" class="cls-23" />
+    <rect x="322" y="228" width="9" height="9" rx="2" ry="2" class="cls-24" />
+    <path d="M329.854,230.883 L329.854,230.883 L326.020,234.849 L326.020,234.849 C325.930,234.942 325.805,235.000 325.667,235.000 C325.529,235.000 325.404,234.942 325.313,234.849 L325.313,234.849 L323.146,232.607 L323.146,232.607 C323.056,232.514 323.000,232.384 323.000,232.241 C323.000,231.956 323.224,231.724 323.500,231.724 C323.638,231.724 323.763,231.782 323.854,231.876 L323.854,231.876 L325.667,233.751 L329.146,230.152 L329.146,230.152 C329.237,230.058 329.362,230.000 329.500,230.000 C329.776,230.000 330.000,230.232 330.000,230.517 C330.000,230.660 329.944,230.789 329.854,230.883 Z" class="cls-12" />
+    <rect x="322" y="241" width="9" height="9" rx="2" ry="2" class="cls-25" />
+    <rect x="322" y="254" width="9" height="9" rx="2" ry="2" class="cls-25" />
+    <rect x="189" y="354" width="55" height="13" rx="2" ry="2" class="cls-26" />
+    <rect x="492" y="354" width="55" height="13" rx="2" ry="2" class="cls-27" />
+    <g style="fill: #fff; filter: url(#gradient-overlay-1)">
+        <rect x="556" y="354" width="55" height="13" rx="2" ry="2" id="rect-2" style="stroke: inherit; filter: none; fill: inherit" class="cls-28" />
+    </g>
+    <use xlink:href="#rect-2" style="stroke: #6db3ff; filter: none; fill: none" />
+    <text transform="translate(310 105) scale(0.27 0.27)" class="cls-29"><tspan x="0" class="cls-30">Product Name:</tspan></text>
+    <text transform="translate(310 126) scale(0.27 0.27)" class="cls-29"><tspan x="0" class="cls-30">Organization Name:</tspan></text>
+    <text transform="translate(310 146) scale(0.27 0.27)" class="cls-29"><tspan x="0" class="cls-30">Organization Identifier:</tspan></text>
+    <text transform="translate(310 166) scale(0.27 0.27)" class="cls-29"><tspan x="0" class="cls-30">Bundle Identifier:</tspan></text>
+    <text transform="translate(321 166) scale(0.27 0.27)" class="cls-29"><tspan class="cls-31">Organization.TestProject</tspan></text>
+    <text transform="translate(310 184) scale(0.27 0.27)" class="cls-29"><tspan x="0" class="cls-30">Language:</tspan></text>
+    <text transform="translate(310 212) scale(0.27 0.27)" class="cls-29"><tspan x="0" class="cls-30">Devices:</tspan></text>
+    <text transform="translate(217 363) scale(0.28)" class="cls-32"><tspan x="0" class="cls-33">Cancel</tspan></text>
+    <text transform="translate(520 363) scale(0.28)" class="cls-32"><tspan x="0" class="cls-34">Previous</tspan></text>
+    <text transform="translate(584 363) scale(0.28)" class="cls-32"><tspan x="0" class="cls-35">Next</tspan></text>
+    <text transform="translate(272 55) scale(0.28)" class="cls-36"><tspan x="0" class="cls-37">Choose options for your new project:</tspan></text>
+    <path d="M323.758,202.440 L469.692,202.440 C471.418,202.440 472.817,203.839 472.817,205.565 L472.817,213.691 C472.817,215.417 471.418,216.816 469.692,216.816 L323.758,216.816 C322.032,216.816 320.633,215.417 320.633,213.691 L320.633,205.565 C320.633,203.839 322.032,202.440 323.758,202.440 Z" class="cls-8" />
+    <path d="M323.758,175.440 L469.692,175.440 C471.418,175.440 472.817,176.839 472.817,178.565 L472.817,186.691 C472.817,188.417 471.418,189.816 469.692,189.816 L323.758,189.816 C322.032,189.816 320.633,188.417 320.633,186.691 L320.633,178.565 C320.633,176.839 322.032,175.440 323.758,175.440 Z" class="cls-8" />
+    <path d="M460.758,175.440 L469.692,175.440 C471.418,175.440 472.817,176.839 472.817,178.565 L472.817,186.691 C472.817,188.417 471.418,189.816 469.692,189.816 L460.758,189.816 L460.758,175.440 Z" class="cls-38" />
+    <path d="M460.758,202.440 L469.692,202.440 C471.418,202.440 472.817,203.839 472.817,205.565 L472.817,213.691 C472.817,215.417 471.418,216.816 469.692,216.816 L460.758,216.816 L460.758,202.440 Z" class="cls-38" />
+    <path d="M468.372,184.282 L466.501,186.143 L464.605,184.257 L464.605,184.258 C464.541,184.196 464.453,184.158 464.357,184.158 C464.160,184.158 464.000,184.317 464.000,184.513 C464.000,184.609 464.038,184.696 464.100,184.760 L464.100,184.760 L466.243,186.891 L466.243,186.891 C466.308,186.958 466.399,187.000 466.500,187.000 C466.500,187.000 466.501,187.000 466.501,187.000 C466.501,187.000 466.501,187.000 466.502,187.000 C466.603,187.000 466.694,186.958 466.759,186.891 L466.759,186.891 L468.902,184.760 L468.901,184.759 C468.962,184.695 469.000,184.609 469.000,184.513 C469.000,184.317 468.840,184.158 468.643,184.158 C468.534,184.158 468.437,184.206 468.372,184.282 Z" class="cls-12" />
+    <path d="M468.372,180.718 L466.501,178.857 L464.605,180.743 L464.605,180.743 C464.541,180.804 464.453,180.842 464.357,180.842 C464.160,180.842 464.000,180.683 464.000,180.487 C464.000,180.391 464.038,180.304 464.100,180.240 L464.100,180.240 L466.243,178.109 L466.243,178.109 C466.308,178.042 466.399,178.000 466.500,178.000 C466.500,178.000 466.501,178.000 466.501,178.000 C466.501,178.000 466.501,178.000 466.502,178.000 C466.603,178.000 466.694,178.042 466.759,178.109 L466.759,178.109 L468.902,180.240 L468.901,180.241 C468.962,180.305 469.000,180.391 469.000,180.487 C469.000,180.683 468.840,180.842 468.643,180.842 C468.534,180.842 468.437,180.794 468.372,180.718 Z" class="cls-12" />
+    <path d="M468.372,211.282 L466.501,213.143 L464.605,211.257 L464.605,211.258 C464.541,211.196 464.453,211.158 464.357,211.158 C464.160,211.158 464.000,211.317 464.000,211.513 C464.000,211.609 464.038,211.696 464.100,211.760 L464.100,211.760 L466.243,213.891 L466.243,213.891 C466.308,213.958 466.399,214.000 466.500,214.000 C466.500,214.000 466.501,214.000 466.501,214.000 C466.501,214.000 466.501,214.000 466.502,214.000 C466.603,214.000 466.694,213.958 466.759,213.891 L466.759,213.891 L468.902,211.760 L468.901,211.759 C468.962,211.695 469.000,211.609 469.000,211.513 C469.000,211.317 468.840,211.158 468.643,211.158 C468.534,211.158 468.437,211.206 468.372,211.282 Z" class="cls-12" />
+    <path d="M468.372,207.718 L466.501,205.857 L464.605,207.743 L464.605,207.743 C464.541,207.804 464.453,207.842 464.357,207.842 C464.160,207.842 464.000,207.683 464.000,207.487 C464.000,207.391 464.038,207.304 464.100,207.240 L464.100,207.240 L466.243,205.109 L466.243,205.109 C466.308,205.042 466.399,205.000 466.500,205.000 C466.500,205.000 466.501,205.000 466.501,205.000 C466.501,205.000 466.501,205.000 466.502,205.000 C466.603,205.000 466.694,205.042 466.759,205.109 L466.759,205.109 L468.902,207.240 L468.901,207.241 C468.962,207.305 469.000,207.391 469.000,207.487 C469.000,207.683 468.840,207.842 468.643,207.842 C468.534,207.842 468.437,207.794 468.372,207.718 Z" class="cls-12" />
+    <path d="M320.633,136.440 L472.817,136.440 L472.817,150.816 L320.633,150.816 L320.633,136.440 Z" class="cls-8" />
+    <text transform="translate(325 146) scale(0.27 0.27)" class="cls-29"><tspan class="cls-39">Name of your organization</tspan></text>
+    <text transform="translate(325 212) scale(0.27 0.27)" class="cls-29"><tspan class="cls-39">Universal</tspan></text>
+    <text transform="translate(325 186) scale(0.27 0.27)" class="cls-29"><tspan class="cls-39">Objective-C</tspan></text>
+    <text transform="translate(338 235) scale(0.27 0.27)" class="cls-29"><tspan class="cls-39">Use Core Data</tspan></text>
+    <text transform="translate(338 248) scale(0.27 0.27)" class="cls-29"><tspan class="cls-39">Include Unit Tests</tspan></text>
+    <text transform="translate(338 262) scale(0.27 0.27)" class="cls-29"><tspan class="cls-39">Include UI Tests</tspan></text>
+    <path d="M320.633,116.440 L472.817,116.440 L472.817,130.816 L320.633,130.816 L320.633,116.440 Z" class="cls-8" />
+    <text transform="translate(325 126) scale(0.27 0.27)" class="cls-29"><tspan class="cls-39">UserName</tspan></text>
+    <path d="M320.633,95.440 L472.817,95.440 L472.817,109.816 L320.633,109.816 L320.633,95.440 Z" class="cls-40" />
+    <text transform="translate(325 105) scale(0.27 0.27)" class="cls-29"><tspan class="cls-39">TestProject</tspan></text>
+</svg>
+
